@@ -1,0 +1,119 @@
+\documentclass[12pt,a4paper]{article}
+
+% Import Packages
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{subfiles}
+\usepackage{biblatex}
+
+% Import the bibliography file
+\addbibresource{bibliography.bib} 
+
+\begin{document}
+
+% Cover Page
+\begin{titlepage}
+   \begin{center}
+   
+       \vspace*{1cm}
+       
+       \large
+       \textbf{Smartphone Web Survey: A Systematic Literature Review}
+        
+       \vspace{1.5cm}
+   
+       \textbf{1563986}
+   
+       \vfill
+   
+       A term paper presented for the lecture\\
+       Data and Measurement
+   
+       \vspace{0.8cm}
+   
+       \includegraphics[width=0.4\textwidth]{reports/figures/08_UM_SIGNET_EN_RGB.png}
+       
+       University of Mannheim\\
+       Germany\\
+   
+       \date{\today}
+   
+   \end{center}
+\end{titlepage}
+
+
+% Title and Abstract
+\thispagestyle{plain}
+\begin{center}
+
+    \Large
+    \textbf{Smartphone Web Survey: A Systematic Literature Review}
+     
+    \vspace{0.4cm}
+
+    \today
+    
+    \vspace{0.9cm}
+    
+    \abstract{This sample is a guideline for preparing technical papers using \LaTeX\ for manuscript submission. It contains the documentation for your \LaTeX\ Class file, which implements the layout for your manuscript for all Journals of OUP. This sample article uses a class file named  that all authors need to use for their manuscript preparation. It is similar in use to the \texttt{article} class file of \LaTeX, but has some extra fields in the preamble and some extended commands for other parts of the article.}
+    
+    \vspace{0.4cm}
+    
+    \noindent
+    \textbf{Keywords:} Smartphone; Web Survey; Survey Data Quality; Mobile Survey Design; Systematic Literature Review
+    
+\end{center}
+
+\newpage
+
+
+% Include Content
+
+\section{Introduction}
+\label{01_introduction}
+\subfile{sections/01_introduction}
+
+\section{Theoretical Background}
+\label{02_theoretical_background}
+\subfile{sections/02_theoretical_background}
+
+\section{Literature Review Methodology}
+\label{03_literature_review_methodology}
+\subfile{sections/03_literature_review_methodology}
+
+\section{Analysis Results}
+\label{04_analysis_results}
+
+\subsection{Meta Data Analysis}
+\label{04_01_meta_data_analysis}
+\subfile{sections/04_analysis_results/04_01_meta_data_analysis}
+
+\subsection{Data Quality Analysis}
+\label{04_02_data_quality_analysis}
+\subfile{sections/04_analysis_results/04_02_data_quality_analysis}
+
+\subsection{Mobile Participants Analysis}
+\label{04_03_mobile_participants_analysis}
+\subfile{sections/04_analysis_results/04_03_mobile_participants_analysis}
+
+\subsection{Invitation Mode Analysis}
+\label{04_04_invitation_mode_analysis}
+\subfile{sections/04_analysis_results/04_04_invitation_mode_analysis}
+
+\subsection{Survey Design Analysis}
+\label{04_05_survey_design_analysis}
+\subfile{sections/04_analysis_results/04_05_survey_design_analysis}
+
+\subsection{Alternative Input Analysis}
+\label{4_06_alternative_input_analysis}
+\subfile{sections/04_analysis_results/04_06_alternative_input_analysis}
+
+\section{Summary and Outlook}
+\label{05_summary_and_outlook}
+\subfile{sections/05_summary_and_outlook}
+
+% Include Bibliography
+\newpage
+\printbibliography
+
+\end{document}
