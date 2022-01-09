@@ -5,6 +5,11 @@
 \usepackage{graphicx}
 \usepackage{subfiles}
 \usepackage{biblatex}
+\usepackage[english]{babel}
+\usepackage{hyperref}
+\usepackage{url}
+\usepackage{doi}
+\usepackage{booktabs}
 
 % Import the bibliography file
 \addbibresource{bibliography.bib} 
@@ -55,7 +60,12 @@
     
     \vspace{0.9cm}
     
-    \abstract{This sample is a guideline for preparing technical papers using \LaTeX\ for manuscript submission. It contains the documentation for your \LaTeX\ Class file, which implements the layout for your manuscript for all Journals of OUP. This sample article uses a class file named  that all authors need to use for their manuscript preparation. It is similar in use to the \texttt{article} class file of \LaTeX, but has some extra fields in the preamble and some extended commands for other parts of the article.}
+    \abstract{Introduction that motivates the topic
+Main part which critically summarizes the literature
+Strengths and weaknesses of different approaches, controversies, points where you disagree with the authors or where their studies are limited
+Own thoughts: what else should be considered, what could be alternative arguments, where are gaps?
+Conclusion: suggestions for future research
+→ Read published literature reviews}
     
     \vspace{0.4cm}
     
@@ -96,17 +106,18 @@
 \label{04_03_mobile_participants_analysis}
 \subfile{sections/04_analysis_results/04_03_mobile_participants_analysis}
 
-\subsection{Invitation Mode Analysis}
-\label{04_04_invitation_mode_analysis}
-\subfile{sections/04_analysis_results/04_04_invitation_mode_analysis}
-
 \subsection{Survey Design Analysis}
-\label{04_05_survey_design_analysis}
-\subfile{sections/04_analysis_results/04_05_survey_design_analysis}
+\label{04_04_survey_design_analysis}
+\subfile{sections/04_analysis_results/04_04_survey_design_analysis}
 
 \subsection{Alternative Input Analysis}
-\label{4_06_alternative_input_analysis}
-\subfile{sections/04_analysis_results/04_06_alternative_input_analysis}
+\label{04_05_alternative_input_analysis}
+\subfile{sections/04_analysis_results/04_05_alternative_input_analysis}
+
+\subsection{Discussion}
+\label{04_06_discussion}
+\subfile{sections/04_analysis_results/04_06_discussion}
+
 
 \section{Summary and Outlook}
 \label{05_summary_and_outlook}
