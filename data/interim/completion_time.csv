@@ -1,0 +1,29 @@
+,survey_year,survey_participants_number,survey_country,survey_operator,survey_population,survey_design_mobile_adapted,mobile_completion_time_higher
+0,2015.0,1800,Spain,Netquest,Adults Smartphone and PC User,"[True, False]",True
+2,2015.0,419,USA,Author,Students,True,False
+4,2015.0,1608,Spain,Netquest,Spanish Adults,"[True, False]",True
+8,2012.0,2029,Netherlands,CentERdata,Dutch-speaking Adults,True,True
+10,,211,USA,Author,Students,,False
+12,2015.0,699,USA,Author,Students,True,False
+13,2011.0,513,Russia,Online Market Intelligence,Russian Mobile Web User (18+),,True
+19,,15292,USA,EuroQoL Research Foundation,American Adults,,True
+21,2012.0,3396,Germany,,,True,True
+23,2013.0,1390,Netherlands,CentERdata,Dutch Adults,True,True
+25,2014.0,2000,South Korea,Dongguk University Student Life Survey,Students,True,False
+28,,24.273,Germany,German Longitudinal Election Study,German Internet User (18+),,True
+31,2013.0,836,Netherlands,CentERdata,Dutch Adults,True,True
+33,2016.0,1678,Russia,Online Market Intelligence,Mobile Internet User ,True,True
+39,2012.0,58768,USA,Strategic National Arts Alumni Project,Alumni of Arts Education,,True
+47,2017.0,"[2634, 1300]","['China', 'USA']","['Online Survey Company', 'Chinese Survey Company']","['American Leisure Tourist', 'Chinese Adults']",,"[True, False]"
+51,2018.0,3517,Germany,GESIS,German Adults,True,True
+53,2015.0,1800,Spain,Netquest,Spanish Adults,"[True, False]",True
+64,2015.0,5535,Norway,Kantar TNS,Norway Adults,True,True
+67,2016.0,1476,Spain,Netquest,Adults with Access to Mobile and PC,True,False
+69,,47,USA,Author,Students,False,True
+71,,559,USA,Author,,,False
+72,2014.0,2913,Germany,GESIS,German Adults,False,True
+73,2013.0,6226,Netherlands,CentERdata,Dutch Adults,True,True
+78,2015.0,512,USA,Author,Adult Household Population,False,True
+79,2014.0,1721,USA,Amazon Mechanical Turk,Adult IPhone User,,True
+80,2012.0,947,Netherlands,Author,Dutch Internet User (18+),True,False
+84,,38841,USA,Sustainability Cultural Indicators Program,Students,True,True
