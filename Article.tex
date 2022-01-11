@@ -4,7 +4,7 @@
 \usepackage[utf8]{inputenc}
 \usepackage{graphicx}
 \usepackage{subfiles}
-\usepackage{biblatex}
+\usepackage[style = apa]{biblatex}
 \usepackage[english]{babel}
 \usepackage{hyperref}
 \usepackage{url}
@@ -15,7 +15,7 @@
 \usepackage{longtable}
 
 % Import the bibliography file
-\addbibresource{bibliography.bib} 
+\addbibresource{export.bib} 
 
 \begin{document}
 
@@ -97,30 +97,17 @@ Conclusion: suggestions for future research
 \section{Analysis Results}
 \label{04_analysis_results}
 
-\subsection{Meta Data Analysis}
-\label{04_01_meta_data_analysis}
-\subfile{sections/04_analysis_results/04_01_meta_data_analysis}
+\subsection{General Development Analysis}
+\label{04_01_general_development_analysis}
+\subfile{sections/04_01_general_development_analysis}
 
-\subsection{Data Quality Analysis}
-\label{04_02_data_quality_analysis}
-\subfile{sections/04_analysis_results/04_02_data_quality_analysis}
-
-\subsection{Mobile Participants Analysis}
-\label{04_03_mobile_participants_analysis}
-\subfile{sections/04_analysis_results/04_03_mobile_participants_analysis}
+\subsection{Survey Quality Analysis}
+\label{04_02_survey_quality_analysis}
+\subfile{sections/04_02_survey_quality_analysis}
 
 \subsection{Survey Design Analysis}
 \label{04_04_survey_design_analysis}
-\subfile{sections/04_analysis_results/04_04_survey_design_analysis}
-
-\subsection{Alternative Input Analysis}
-\label{04_05_alternative_input_analysis}
-\subfile{sections/04_analysis_results/04_05_alternative_input_analysis}
-
-\subsection{Discussion}
-\label{04_06_discussion}
-\subfile{sections/04_analysis_results/04_06_discussion}
-
+\subfile{sections/04_03_survey_design_analysis}
 
 \section{Summary and Outlook}
 \label{05_summary_and_outlook}
