@@ -1,0 +1,2436 @@
+TY  - JOUR
+AB  - Design principles for survey questionnaires viewed on desktop and laptop computers are increasingly being seen as inadequate for the design of questionnaires viewed on smartphones. Insights gained from empirical research can help those conducting mobile surveys to improve their questionnaires. This article reports on a systematic literature review of research presented or published between 2007 and 2016 that evaluated the effect of smartphone questionnaire design features on indicators of response quality. The evidence suggests that survey designers should make efforts to ?optimize? their questionnaires to make them easier to complete on smartphones, fit question content to the width of smartphone screens to prevent horizontal scrolling, and choose simpler types of questions (single-choice questions, multiple-choice questions, text-entry boxes) over more complicated types of questions (large grids, drop boxes, slider questions). Based on these results, we identify design heuristics, or general principles, for creating effective smartphone questionnaires. We distinguish between five of them: readability, ease of selection, visibility across the page, simplicity of design elements, and predictability across devices. They provide an initial framework by which to evaluate smartphone questionnaires, though empirical testing and further refinement of the heuristics is necessary.
+AU  - Antoun, Christopher
+AU  - Katz, Jonathan
+AU  - Argueta, Josef
+AU  - Wang, Lin
+DO  - 10.1177/0894439317727072
+IS  - 5
+KW  - Boxes
+KW  - COMPUTER
+KW  - DEVICE AFFECT
+KW  - Design
+KW  - Education--Computer Applications
+KW  - Heuristic
+KW  - Literature reviews
+KW  - MOBILE WEB SURVEY
+KW  - PANEL
+KW  - PC
+KW  - Polls & surveys
+KW  - QUALITY
+KW  - Questionnaires
+KW  - Research design
+KW  - SCALES
+KW  - SLIDER
+KW  - Screens
+KW  - Scrolling
+KW  - Smartphones
+KW  - Visibility
+KW  - mobile web surveys
+KW  - questionnaire design
+KW  - response quality
+KW  - smartphone surveys
+PY  - 2018
+SP  - 557
+EP  - 574
+TI  - Design Heuristics for Effective Smartphone Questionnaires
+T2  - Social Science Computer Review
+VL  - 36
+ER  -
+TY  - JOUR
+AB  - This article compares the factors affecting completion times (CTs) to web survey questions when they are answered using two different devices: personal computers (PCs) and smartphones. Several studies have reported longer CTs when respondents use smartphones than PCs. This is a concern to survey researchers because longer CTs may increase respondent burden and the risk of breakoff. However, few studies have analyzed the specific reasons for the time difference. In this analysis, we analyzed timing data from 836 respondents who completed the same web survey twice, once using a smartphone and once using PC, as part of a randomized crossover experiment in the Longitudinal Internet Studies for the Social Sciences panel. The survey contained a mix of questions (single choice, numeric entry, and text entry) that were displayed on separate pages. We included both page-level and respondent-level factors that may have contributed to the time difference between devices in cross-classified multilevel models. We found that respondents took about 1.4 times longer when using smartphones than PCs. This difference was larger when a page had more than one question or required text entry. The difference was also larger among respondents who had relatively low levels of familiarity and experience using smartphones. Respondent multitasking was associated with slower CTs, regardless of the device used. Practical implications and avenues for future research are discussed.
+AU  - Antoun, Christopher
+AU  - Cernat, Alexandru
+DO  - 10.1177/0894439318823703
+IS  - 4
+KW  - Computers
+KW  - Experimental Subjects
+KW  - MOBILE
+KW  - Online Surveys
+KW  - Reaction Time
+KW  - Smartphones
+KW  - Testing Methods
+KW  - mobile web surveys
+KW  - response times
+KW  - smartphone surveys
+PY  - 2020
+SP  - 477
+EP  - 489
+TI  - Factors Affecting Completion Times: A Comparative Analysis of Smartphone and PC Web Surveys
+T2  - Social Science Computer Review
+VL  - 38
+ER  -
+TY  - JOUR
+AB  - Survey participants are increasingly responding to Web surveys on their smartphones as opposed to their personal computers (PCs), and this change brings with it some potential data-quality issues. This study reports on a randomized crossover experiment to compare the effect of two different devices, smartphones and PCs, on response quality in a Web survey conducted in a probability-based panel. Participants (n = 1,390) were invited to complete an online questionnaire on both a smartphone (mobile Web) and PC (PC Web) in sequence. We hypothesized that smartphone use would result in lower-quality responses because people are more likely to use smartphones while multitasking or while around other people and because they could have difficulty recording their answers using a small touchscreen. While we found that respondents who participated in this study were more likely to multitask and more likely to be around other people when using smartphones, these factors had little impact on data quality. Respondents were at least as likely to provide conscientious and thoughtful answers and to disclose sensitive information on smartphones as on PCs. When using smartphones, however, respondents seemed to have trouble accurately moving a small-sized slider handle and a date-picker wheel to the intended values. Overall, we find that people using smartphones can provide high-quality responses, even when their context is more distracting, as long as they are presented with question formats that are easy to use on small touchscreens. [ABSTRACT FROM AUTHOR]
+AU  - Antoun, Christopher
+AU  - Couper, Mick P.
+AU  - Conrad, Frederick G.
+DO  - 10.1093/poq/nfw088
+IS  - S1
+KW  - COMPUTER
+KW  - Data quality
+KW  - INTERNET
+KW  - Internet surveys
+KW  - Personal computers
+KW  - Probability theory
+KW  - Respondents
+KW  - Smartphones
+PY  - 2017
+SP  - 280
+EP  - 306
+TI  - Effects of Mobile versus PC Web on Survey Response Quality: A Crossover Experiment in a Probability Web Panel
+T2  - Public Opinion Quarterly
+VL  - 81
+ER  -
+TY  - JOUR
+AB  - Although web surveys in which respondents are encouraged to use smartphones have started to emerge, it is still unclear whether they are a promising alternative to traditional web surveys in which most respondents use desktop computers. For sample members to participate in smartphone-based surveys, they need to have access to a smartphone and agree to use it to complete the survey; this raises concerns about coverage and nonresponse, as well as measurement if those who agree to participate have any difficulty using smartphones. In an analysis of data from a smartphone versus desktop (within-subjects) experiment conducted in a probability-based web panel, we compare estimates produced by the smartphone web survey (one condition) and PC web survey (other condition). We estimate mode effects and then examine the extent to which these effects are attributable to coverage, nonresponse, and measurement errors in the smartphone-based survey. While mode effects were generally small, we find that the smartphone web survey produced biased estimates relative to PC web for a subset of survey variables. This was largely due to noncoverage and, to a lesser extent, nonresponse. We find no evidence of measurement effects. Our findings point to the trade-off of the advanced data collection opportunities of smartphones and the potential selection errors that such devices may introduce.
+AU  - Antoun, Christopher
+AU  - Conrad, Frederick G.
+AU  - Couper, Mick P.
+AU  - West, Brady T.
+DO  - 10.1093/JSSAM/SMY002
+IS  - 1
+KW  - BIAS
+KW  - COMPUTER
+KW  - Coverage error
+KW  - MOBILE WEB SURVEYS
+KW  - Measurement error
+KW  - Mobile web survey
+KW  - Nonresponse error
+KW  - PC WEB
+KW  - QUALITY
+KW  - SELECTION
+KW  - SENSITIVE TOPICS
+KW  - Total survey error
+PY  - 2019
+SP  - 93
+EP  - 117
+TI  - Simultaneous estimation of multiple sources of error in a smartphone-based survey
+T2  - Journal of Survey Statistics and Methodology
+VL  - 7
+ER  -
+TY  - JOUR
+AB  - "In this paper, we look at the challenge of optimizing survey layout in online research to enable multi-device use. Several studies provide useful advice on target-oriented implementation of web design for CAWI surveys. This paper presents results of the implementation of a new adapted design at the panel of DemoSCOPE that allows the participants to take part in a survey on multiple (especially mobile) devices. To evaluate this adapted design, we compare interview data and question timing of panellists who participated in an insurance study before and after the design transition. Central key figures concerning the completion rate, item non-response, open questions, straightlining, timing of single questions and the length of the total interview are presented. In addition, we have presented examples of both old and new design to the community and invited them to assess these examples concerning orientation, color, design and usability. We evaluate the differences in these assessments before and after the design transition for smartphone and desktop users. We end with suggestions for best practice for online studies on different devices." (author's abstract)
+AU  - Arn, Birgit
+AU  - Klug, Stefan
+AU  - Kolodziejski, Janusz
+DO  - 10.12758/mda.2015.011
+IS  - 2
+KW  - Umfrageforschung
+KW  - survey research
+PY  - 2015
+SP  - 185
+EP  - 212
+TI  - Evaluation of an adapted design in a multi-device online panel: a DemoSCOPE case study
+T2  - methods, data, analyses
+VL  - 9
+ER  -
+TY  - JOUR
+AB  - The Advertising Research Foundation's ongoing How Advertising Works program combines original experiments with outside research. Launched in 2015, the program intends to offer practical guidance for improving advertising effectiveness across media and across platforms. The latest investigations led by Advertising Research Foundation Executive Researcher Christopher Bacon focused on the quality of survey research on mobile devices, which consumers increasingly are using to respond to online surveys. Specifically, the authors explored the use of symbols (emojis) as an alternative to text in the design of mobile surveys to keep respondents from abandoning the survey and to improve user experience. In the pages that follow, the authors explain the historical precedent for using symbols as communication devices, the importance of mobile-survey design using symbols, and the implication for data quality and effective survey design going forward.
+AU  - Bacon, Christopher
+AU  - Barlas, Frances M.
+AU  - Dowling, Zoe
+AU  - Thomas, Randall K.
+DO  - 10.2501/JAR-2017-053
+IS  - 4
+PY  - 2017
+SP  - 462
+EP  - 470
+TI  - How Effective Are Emojis In Surveys Taken on Mobile Devices? Data-Quality Implications and the Potential To Improve Mobile-Survey Engagement and Experience
+T2  - Journal of Advertising Research
+VL  - 57
+ER  -
+TY  - JOUR
+AB  - This paper explores strategies on how to best balance expanding survey length with the need for concise, relevant and engaging surveys, deployed in a device agnostic format. When designing a survey we, as an industry, are often seeking a balance between competing design challenges: clients have diverse and extensive objectives, survey participants have short attention spans and an ever increasing suite of connected devices to choose from. Survey participants are voting with their feet when surveys are not compatible with the device they want to use, whether that is the smart device in their pocket or laptop they are working on, and this is very real for online panels. We are seeing increased abandon rates, with the effects of extended fieldwork times, smaller pools of sample to draw from and the possibility of introducing bias into our data. Having spent much of 2015 working with clients to design more smart-device friendly surveys, Research Now has explored innovative ways to shorten survey length without compromising on the amount of material covered. Following on from work by Johnson et al. (2014), Research Now conducted a piece of primary research exploring survey modularisation as discussed in the current paper. The approach splits questionnaires into modules, with participants receiving only a specific module, a subset of the overall survey. It is expected that a long questionnaire can be split and when applied appropriately, designed properly and implemented effectively data can yield results comparable with a full non-modular survey. Building on previous industry work on this topic, and primary research conducted by Research Now, we discuss our methodology, the results and conclusions from this work, and explore opportunities to automate the approach. The overall goal of this study and resulting paper is to explore how adapting survey research in this way improves rather than complicates the lives of both researchers and research participants. If we are not able to shorten our surveys, then survey modularisation may prove to be our best hope for a complete, representative dataset and we need to ensure that this is achieved accurately, confidently and efficiently at scale.
+AU  - Bansal, Harvir S.
+AU  - Eldridge, James
+AU  - Halder, Avik
+AU  - Knowles, Roddy
+AU  - Murray, Michael
+AU  - Sehmer, Luke
+AU  - Turner, David
+DO  - 10.2501/IJMR-2017-016
+IS  - 2
+KW  - DESIGN
+PY  - 2017
+SP  - 221
+EP  - 238
+TI  - Shorter interviews, longer surveys Optimising the survey participant experience while accommodating ever expanding client demands
+T2  - International Journal of Market Research
+VL  - 59
+ER  -
+TY  - JOUR
+AB  - Little is known about the reliability and validity in web surveys, although this is crucial information to evaluate how accurate the results might be and/or to correct for measurement errors. In particular, there are few studies based on probability-based samples for web surveys, looking at web-specific response scales and considering the impact of having smartphone respondents. In this article, we start filling these gaps by estimating the measurement quality of sliders compared to radio button scales controlling for the device respondents used. We conducted therefore two multitrait?multimethod (MTMM) experiments in the Norwegian Citizen Panel (NCP), a probability-based online panel. Overall, we find that if smartphone respondents represent a nonnegligible part of the whole sample, offering the response options in form of a slider or a radio button scale leads to a quite similar measurement quality. This means that sliders could be used more often without harming the data quality. Besides, if there are no smartphone respondents, we find that sliders can also be used, but that the marker should be placed initially in the middle rather than on the left side. However, in practice, there is no need to shift from radio buttons to sliders since the quality is not highly improved by providing sliders.
+AU  - Bosch, Oriol J.
+AU  - Revilla, Melanie
+AU  - DeCastellarnau, Anna
+AU  - Weber, Wiebke
+DO  - 10.1177/0894439317750089
+IS  - 1
+KW  - Buttons
+KW  - COMPUTER
+KW  - Data quality
+KW  - Education--Computer Applications
+KW  - Internet
+KW  - MODELS
+KW  - Measurement
+KW  - Measurement errors
+KW  - Methodology
+KW  - Online Surveys
+KW  - Polls & surveys
+KW  - Quality
+KW  - Radio
+KW  - Reliability
+KW  - Research Quality
+KW  - Scales
+KW  - Smartphones
+KW  - Test Forms
+KW  - Test Reliability
+KW  - Test Validity
+KW  - VISUAL ANALOG SCALES
+KW  - WEB SURVEYS
+KW  - measurement quality
+KW  - multitrait-multimethod experiment
+KW  - multitrait–multimethod experiment
+KW  - probability-based online panel
+KW  - radio buttons
+KW  - reliability and validity
+KW  - slider scales
+KW  - web surveys
+PY  - 2019
+SP  - 119
+EP  - 132
+TI  - Measurement Reliability, Validity, and Quality of Slider Versus Radio Button Scales in an Online Probability-Based Panel in Norway
+T2  - Social Science Computer Review
+VL  - 37
+ER  -
+TY  - JOUR
+AB  - Most mobile devices nowadays have a camera. Besides, posting and sharing images have been found as one of the most frequent and engaging Internet activities. However, to our knowledge, no research has explored the feasibility of asking respondents of online surveys to upload images to answer survey questions. The main goal of this article is to investigate the viability of asking respondents of an online opt-in panel to upload during a mobile web survey: First, a photo taken in the moment, and second, an image already saved on their smartphone. In addition, we want to test to what extent the Google Vision application programming interface (API), which can label images into categories, produces similar tags than a human coder. Overall, results from a survey conducted among millennials in Spain and Mexico (N = 1,614) show that more than half of the respondents uploaded an image. Of those, 77.3% and 83.4%, respectively, complied with what the question asked. Moreover, respectively, 52.4% and 65.0% of the images were similarly codified by the Google Vision API and the human coder. In addition, the API codified 1,818 images in less than 5 min, whereas the human coder spent nearly 35 hours to complete the same task.
+AU  - Bosch, Oriol J.
+AU  - Revilla, Melanie
+AU  - Paura, Ezequiel
+DO  - 10.1177/0894439318791515
+IS  - 5
+KW  - API
+KW  - Application programming interface
+KW  - COMMUNICATION
+KW  - Cameras
+KW  - Codification
+KW  - Computer vision
+KW  - Computers
+KW  - Education--Computer Applications
+KW  - Electronic devices
+KW  - Images
+KW  - Internet
+KW  - MILLENNIALS
+KW  - Millennials
+KW  - Mobile Devices
+KW  - Online Surveys
+KW  - PHOTO
+KW  - Photography
+KW  - Polls & surveys
+KW  - Questions
+KW  - Smartphones
+KW  - Viability
+KW  - computer vision
+KW  - image recognition
+KW  - mobile web survey
+KW  - new data types
+KW  - smartphone
+PY  - 2019
+SP  - 669
+EP  - 683
+TI  - Answering Mobile Surveys With Images: An Exploration Using a Computer Vision API
+T2  - Social Science Computer Review
+VL  - 37
+ER  -
+TY  - JOUR
+AB  - To involve Millennials in survey participation, and obtain high-quality answers from them, survey designers may require new tools that better catch Millennials' interest and attention. One key new tool that could improve the communication and make the survey participation more attractive to young respondents are the emojis. We used data from a survey conducted among Millennials by the online fieldwork company Netquest in Spain and Mexico (n = 1614) to determine how emojis can be used in mobile web surveys, in particular in open-ended questions, and how their use can affect data quality, completion time, and survey evaluation. Overall, results show a high willingness of Millennials to use emojis in surveys (both stated and actual use) and a positive impact of encouraging Millennials to use emojis in open-ended questions on the amount of information conveyed, the completion time and the survey enjoyment.
+AU  - Bosch, Oriol J.
+AU  - Revilla, Melanie
+DO  - 10.1007/s11135-020-00994-8
+KW  - Data quality
+KW  - Emojis
+KW  - Internet
+KW  - Mexico
+KW  - Millennials
+KW  - Mobile web surveys
+KW  - Participation
+KW  - Polls & surveys
+KW  - Spain
+KW  - Statistics
+KW  - Survey evaluation
+PY  - 2021
+SP  - 39
+EP  - 61
+TI  - Using emojis in mobile web surveys for Millennials? A study in Spain and Mexico
+T2  - Quality & Quantity
+VL  - 55
+ER  -
+TY  - JOUR
+AB  - Millennials have been the focus of quite some research because of their differences with older cohorts. Besides, young respondents have been considered as a hard target population for surveys. Howe...
+AU  - Bosch, Oriol J.
+AU  - Revilla, Melanie
+AU  - Paura, Ezequiel
+DA  - 2019/12//
+DO  - 10.1177/1470785318815567
+IS  - 4
+KW  - Millennials
+KW  - break-off
+KW  - smartphones
+KW  - survey evaluation
+KW  - survey participation
+PB  - SAGE PublicationsSage UK: London, England
+PY  - 2019
+SP  - 359
+EP  - 365
+TI  - Do Millennials differ in terms of survey participation?:
+T2  - International Journal of Market Research
+VL  - 61
+ER  -
+TY  - JOUR
+AB  - This study investigates whether it is the case that representativity is undermined if personal computer, tablet and smartphone respondents differ in sociodemographic characteristics and display different survey completion rates. Online market research is struggling with sample representativity. The analysis of more than ten million survey invitations, as well as stated device preference information, suggests that web survey respondents who are members of online panels still mostly use their personal computers, but do express increasing interest in using smartphones and tablets. Survey completion rates do vary across devices, and device use is significantly associated with socio-demographic characteristics and length of membership on a panel. Therefore, researchers must not limit respondents to use a specific device for completing a survey as this may compromise the quality of the survey completion experience, increase non response error and negatively affect representativity.
+AU  - Brosnan, Kylie
+AU  - Grün, Bettina
+AU  - Dolnicar, Sara
+DO  - 10.2501/IJMR-2016-049
+IS  - 1
+KW  - COMPARING RESPONSE RATES
+KW  - Consumer Attitudes
+KW  - Consumer Research
+KW  - Consumer Surveys
+KW  - DESIGN
+KW  - MAIL SURVEYS
+KW  - METAANALYSIS
+KW  - MOBILE
+KW  - MODES
+KW  - Mobile Devices
+KW  - PANELS
+KW  - Preferences
+KW  - QUALITY
+KW  - Tablet Computers
+KW  - completion rates
+KW  - device preference
+KW  - device use
+KW  - mobile devices
+KW  - online research
+KW  - web surveys
+PY  - 2017
+SP  - 35
+EP  - 55
+TI  - PC, phone or tablet? Use, preference and completion rates for web surveys
+T2  - International Journal of Market Research
+VL  - 59
+ER  -
+TY  - JOUR
+AB  - The widespread usage of smartphones, as well as their technical features, offers many opportunities for survey research. As a result, the importance and popularity of smartphone surveys is steadily increasing. To explore the feasibility of a new text-to-web approach for surveying people directly via their smartphones, we conducted a case study in Germany in which we recruited respondents from a mobile random digit dialing sample via text messages that included a link to a web survey. We show that, although this survey approach is feasible, it is hampered by a number of issues, namely a high loss of numbers at the invitation stage, and a high rate of implicit refusals on the landing page of the survey.
+AU  - Bucher, Hannah
+AU  - Sand, Matthias
+DO  - 10.1093/JSSAM/SMAB006
+PY  - 2021
+TI  - Exploring the Feasibility of Recruiting Respondents and Collecting Web Data Via Smartphone: A Case Study of Text-To-Web Recruitment for a General Population Survey in Germany
+T2  - Journal of Survey Statistics and Methodology
+ER  -
+TY  - JOUR
+AB  - With nearly 50% of U.S. mobile phone subscribers using smartphones, survey researchers are beginning to explore their use as a data collection tool. The Got Healthy Apps Study (GHAS) conducted a randomized experiment to compare mode effects for a survey completed via iPhone mobile browser and online via desktop/laptop computer web browser. Mode effects were assessed for three types of outcomes: randomization/recruitment, survey process/completion, and survey items. In short, the distribution of survey completion times and the distribution of the number of apps owned were significantly different across survey mode after accounting for block group. Other key mode effects outcomes (including open-ended items, slider bar questions, and missing item rates) showed no significant differences across survey mode. Some interesting qualitative findings suggest that iPhone respondents enter more characters and omit fewer items than originally thought.
+AU  - Buskirk, Trent D.
+AU  - Andrus, Charles H.
+DO  - 10.1177/1525822X14526146
+IS  - 4
+KW  - 0514: culture and social structure
+KW  - Computer Applications
+KW  - Computers
+KW  - Internet
+KW  - Methodology
+KW  - Methodology (Data Collection)
+KW  - Mobile Phones
+KW  - Online Surveys
+KW  - Recruitment
+KW  - Smartphones
+KW  - Surveys
+KW  - Websites
+KW  - apps
+KW  - article
+KW  - mode effects
+KW  - smartphones
+KW  - smartphones survey research mode effects apps
+KW  - social anthropology
+KW  - survey research
+PY  - 2014
+SP  - 322
+EP  - 342
+TI  - Making Mobile Browser Surveys Smarter: Results from a Randomized Experiment Comparing Online Surveys Completed via Computer or Smartphone
+T2  - Field methods
+VL  - 26
+ER  -
+TY  - JOUR
+AB  - "The continued rise in smartphone penetration globally afford survey researchers with an unprecedented portal into personal survey data collection from respondents who could complete surveys from virtually any place at any time. While the basic research into optimizing the survey experience and data collection on mobile devices has continued to develop, there are still fundamental gaps in our knowledge of how to optimize certain types of questions in the mobile setting. In fact, survey researchers are still trying to understand which online design principles directly translate into presentation on mobile devices and which principles have to be modified to incorporate separate methods for these devices. One such area involves the use of input styles such as sliding scales that lend themselves to more touch centric input devices such as smartphones or tablets. Operationalizing these types of scales begs the question of an optimal starting position and whether these touch centric input styles are equally preferred by respondents using less touch capable devices. While an outside starting position seems optimal for slider questions completed via computer, this solution may not be optimal for completion via mobile devices as these devices are subjected to far more space and layout constraints compared to computers. This experiment moves the mixed device survey literature forward by directly comparing outcomes from respondents who completed a collection of survey scales using their smartphone, tablet or computer. Within each device, respondents were randomly assigned to complete one of 20 possible versions of scale items determined by a combination of three experimental factors including input style, length and number formatting. Results from this study suggest more weaknesses than strengths for using slider scales to collect survey data using mobile devices and also suggest that preference for these touch centric input styles varies across devices and may not be as high as the preference for the more traditional radio button style." (author's abstract)
+AU  - Buskirk, Trent D.
+DO  - 10.12758/mda.2015.013
+IS  - 2
+KW  - Antwortverhalten
+KW  - Computer
+KW  - Datengewinnung
+KW  - Datenqualität
+KW  - Mobiltelefon
+KW  - Online-Befragung
+KW  - Umfrageforschung
+KW  - cell phone
+KW  - computer
+KW  - data capture
+KW  - data quality
+KW  - online survey
+KW  - response behavior
+KW  - survey research
+PY  - 2015
+SP  - 229
+EP  - 260
+TI  - Are sliders too slick for surveys? An experiment comparing slider and radio button scales for smartphone, tablet and computer based surveys
+T2  - methods, data, analyses
+VL  - 9
+ER  -
+TY  - JOUR
+AU  - Callegaro, Mario
+DO  - 10.2501/IJMR-2013-026
+IS  - 2
+PY  - 2013
+SP  - 317
+EP  - 320
+TI  - From mixed-mode to multiple devices Web surveys, smartphone surveys and apps: has the respondent gone ahead of us in answering surveys?
+T2  - International Journal of Market Research
+VL  - 55
+ER  -
+TY  - JOUR
+AB  - Cameron and Gentleman investigate some of the responses to a series of four surveys administered on both the 23andMe website and 23andMe mobile app to understand differences between web-based and mobile-based data collection. The surveys cover a wide variety of topics, including socioeconomic status (SES), tobacco use, allergies, and caffeine intake, and were chosen because they were available to all customers on both platforms. The use of mobile applications to capture research data efficiently is a promising technique for researchers. However, with the growth of mobile-app-based data collection, the use of mobile apps as a research tool may continue to be an important complement to many of the more-traditional web-based data collection techniques.
+AU  - Cameron, Briana
+AU  - Gentleman, Robert
+DO  - 10.1080/09332480.2018.1549813
+IS  - 4
+KW  - Applications programs
+KW  - Caffeine
+KW  - Collection
+KW  - Data collection
+KW  - Mobile computing
+KW  - Platforms
+KW  - Polls & surveys
+KW  - Research methodology
+KW  - Software
+KW  - Statistics
+KW  - Tobacco
+KW  - Web sites
+KW  - Websites
+PY  - 2018
+SP  - 29
+EP  - 29
+TI  - Mobile Apps versus Web Browsers: A Comparison of Self-administered Survey Platforms
+T2  - Chance
+VL  - 31
+ER  -
+TY  - JOUR
+AB  - Web surveys are struggling to attract and retain respondents due to high burden and competition for the users(') attention. One possible solution to this issue is the improvement of the visual design of surveys. In this article, we evaluate the impact of visual aids such as smiley faces, stars, hearts, and thumbs as alternatives to traditional radio buttons. We use an experimental design in a nonprobability online survey to investigate how the new designs compare with radio buttons and how the results might interact with device used for completion (PC vs mobile), the use of labels, the type of response scale (bipolar vs unipolar), and the number of response categories (5 vs 7 point). While we do not find big differences in response, quality and experience, there seem to be some indication that the use of smiley faces leads to worse data quality.
+AU  - Cernat, Alexandru
+AU  - Liu, Mingna
+DO  - 10.1177/1470785318813520
+IS  - 3
+KW  - DATA QUALITY
+KW  - SURVEY DESIGN
+KW  - VISUAL ANALOG SCALES
+KW  - experimental design
+KW  - gamification
+KW  - mobile survey
+KW  - response scales
+KW  - visual design
+KW  - web surveys
+PY  - 2019
+SP  - 266
+EP  - 286
+TI  - Radio buttons in web surveys: Searching for alternatives
+T2  - International Journal of Market Research
+VL  - 61
+ER  -
+TY  - JOUR
+AB  - Surveys completed on mobile web devices (smartphones) have been found to take longer than surveys completed on a PC. This has been found both in surveys where respondents can choose which device they use and in surveys where respondents are randomly assigned to devices. A number of potential explanations have been offered for these findings, including (1) slower transmission over cellular or Wi-Fi networks, (2) the difficulty of reading questions and selecting responses on a small device, and (3) the increased mobility of mobile web users who have more distractions while answering web surveys. In a secondary analysis of student surveys, we find that only about one-fifth of the time difference can be accounted for by transmission time (between-page time) with the balance being within-page time differences. Using multilevel models, we explore possible page-level (question-level) and respondent-level factors that may contribute to the time difference. We find that much of the time difference can be accounted for by the additional scrolling required on mobile devices, especially for grid questions.
+AU  - Couper, Mick P.
+AU  - Peterson, Gregg J.
+DO  - 10.1177/0894439316629932
+IS  - 3
+KW  - 0188:methodology and research technology
+KW  - 83:Social and Behavioral Sciences (CI)
+KW  - AGE
+KW  - COMPUTER
+KW  - Cellular communication
+KW  - Computer software
+KW  - Data collection
+KW  - Education--Computer Applications
+KW  - Electronic devices
+KW  - Internet
+KW  - MOBILE
+KW  - ONLINE SURVEYS
+KW  - PARADATA
+KW  - PC
+KW  - Polls & surveys
+KW  - QUALITY
+KW  - RESPONSE-TIMES
+KW  - Respondents
+KW  - Response time
+KW  - Scrolling
+KW  - Smartphones
+KW  - Time
+KW  - Web sites
+KW  - computer methods, media, & applications
+KW  - online surveys
+KW  - smartphone surveys
+KW  - survey completion times
+KW  - web surveys
+PY  - 2017
+SP  - 357
+EP  - 377
+TI  - Why Do Web Surveys Take Longer on Smartphones?
+T2  - Social Science Computer Review
+VL  - 35
+ER  -
+TY  - JOUR
+AB  - In this paper I review three key technology-related trends: 1) big data, 2) non-probability samples, and 3) mobile data collection.  I focus on the implications of these trends for survey research and the research profession.  With regard to big data, I review a number of concerns that need to be addressed, and argue for a balanced and careful evaluation of the role that big data can play in the future.  I argue that these developments are unlikely to replace transitional survey data collection, but will supplement surveys and expand the range of research methods.  I also argue for the need for the survey research profession to adapt to changing circumstances.
+AU  - Couper, Mick P.
+DA  - 2013/12//
+DO  - 10.18148/SRM/2013.V7I3.5751
+IS  - 3
+KW  - big data
+KW  - mobile   surveys
+KW  - non
+KW  - organic data
+KW  - probability surveys
+KW  - social media
+PY  - 2013
+SP  - 145
+EP  - 156
+TI  - Is the Sky Falling?  New Technology, Changing Media, and the Future of Surveys
+T2  - Survey Research Methods
+VL  - 7
+ER  -
+TY  - JOUR
+AB  - Filter questions are used to administer follow-up questions to eligible respondents while allowing respondents who are not eligible to skip those questions. Filter questions can be asked in either the interleafed or the grouped formats. In the interleafed format, the follow-ups are asked immediately after the filter question; in the grouped format, follow-ups are asked after the filter question block. Underreporting can occur in the interleafed format due to respondents? desire to reduce the burden of the survey. This phenomenon is called motivated misreporting. Because smartphone surveys are more burdensome than web surveys completed on a computer or laptop, due to the smaller screen size, longer page loading times, and more distraction, we expect that motivated misreporting is more pronounced on smartphones. Furthermore, we expect that misreporting occurs not only in the filter questions themselves but also extends to data quality in the follow-up questions. We randomly assigned 3,517 respondents of a German online access panel to either the PC or the smartphone. Our results show that while both PC and smartphone respondents trigger fewer filter questions in the interleafed format than the grouped format, we did not find differences between PC and smartphone respondents regarding the number of triggered filter questions. However, smartphone respondents provide lower data quality in the follow-up questions, especially in the grouped format. We conclude with recommendations for web survey designers who intend to incorporate smartphone respondents in their surveys.
+AU  - Daikeler, Jessica
+AU  - Bach, Ruben L.
+AU  - Silber, Henning
+AU  - Eckman, Stephanie
+DO  - 10.1177/0894439319900936
+KW  - DATA QUALITY
+KW  - DEVICES
+KW  - FILTER QUESTIONS
+KW  - MOBILE WEB
+KW  - PC
+KW  - TABLETS
+KW  - filter questions
+KW  - follow-up questions
+KW  - measurement error
+KW  - misreporting
+KW  - mobile data quality
+KW  - motivated underreporting
+PY  - 2020
+TI  - Motivated Misreporting in Smartphone Surveys
+T2  - Social Science Computer Review
+ER  -
+TY  - JOUR
+AB  - With the growing popularity of smartphones and tablet PCs (tablets) equipped with mobile browsers, the possibilities to administer surveys via mobile devices have expanded. To investigate the possible mode effect on answer behavior, results are compared between a mobile device?assisted web survey and a computer-assisted web survey. First, a premeasurement in the CentERpanel is conducted to analyze the user group of mobile devices. Second, the users are randomly allocated one of the three conditions: (1) conventional computer-assisted web survey, (2) hybrid version: a computer-assisted web survey with a layout similar to mobile web survey, and (3) mobile web survey. Special attention is given to the design of the mobile web questionnaire, taking small screen size, and typical functionalities for touchscreens into account. The findings suggest that survey completion on mobile devices need not lead to different results than on computers, but one should be prepared for a lower response rate and longer survey completion time. Further, the study offers considerations for researchers on survey satisfaction, location during survey completion, and preferred device to access Internet. With adaptations, surveys can be conducted on the newest mobile devices, although new challenges are emerging and further research is called for.
+AU  - De Bruijne, Marika
+AU  - Wijnant, Arnaud
+DO  - 10.1177/0894439313483976
+IS  - 4
+KW  - 0188: methodology and research technology
+KW  - Access
+KW  - Attention
+KW  - Comparative studies
+KW  - Computers
+KW  - Education--Computer Applications
+KW  - Heterogeneity
+KW  - INTERPRETIVE HEURISTICS
+KW  - Internet
+KW  - Mobile Phones
+KW  - OPTIMAL NUMBER
+KW  - Polls & surveys
+KW  - Popularity
+KW  - Portable computers
+KW  - RATING-SCALES
+KW  - Response rates
+KW  - SEARCH
+KW  - SURVEY DESIGN
+KW  - Satisfaction
+KW  - Smartphones
+KW  - Surveys
+KW  - article
+KW  - computer methods, media, & applications
+KW  - computer web survey
+KW  - mobile device
+KW  - mobile devices
+KW  - mobile web survey
+KW  - mobile web survey smartphones tablet PCs mobile devices survey design touch user interfaces
+KW  - research surveys
+KW  - response rate
+KW  - smartphones
+KW  - special attention
+KW  - survey design
+KW  - tablet PCs
+KW  - touch user interfaces
+PY  - 2013
+SP  - 482
+EP  - 504
+TI  - Comparing Survey Results Obtained via Mobile Devices and Computers: An Experiment With a Mobile Web Survey on a Heterogeneous Group of Mobile Devices Versus a Computer-Assisted Web Survey
+T2  - Social Science Computer Review
+VL  - 31
+ER  -
+TY  - JOUR
+AB  - This article investigates unintended mobile access to surveys in online, probability-based panels. We find that spontaneous tablet usage is drastically increasing in web surveys, while smartphone usage remains low. Further, we analyze the bias of respondent profiles using smartphones and tablets compared to those using computers, on the basis of several sociodemographic characteristics. Our results indicate not only that mobile web respondents differ from PC users but also that tablet users differ from smartphone users. While tablets are used for survey completion by working (young) adults, smartphones are used merely by the young. In addition, our results indicate that mobile web respondents are more progressive and describe themselves more often as pioneers or forerunners in adopting new technology, compared to PC respondents. We further discover that respondents? preferences for devices to complete surveys are clearly in line with unintended mobile response. Finally, we present a similar analysis on intended mobile response in an experiment where smartphone users were requested to complete a mobile survey. Based on these findings, testing on tablets is strongly recommended in online surveys. If the goal is to reach young respondents, enabling surveys via smartphones should be considered.
+AU  - De Bruijne, Marika
+AU  - Wijnant, Arnaud
+DO  - 10.1177/0894439314525918
+IS  - 6
+KW  - 0188: methodology and research technology
+KW  - Bias
+KW  - Computers
+KW  - Demographic Characteristics
+KW  - Demographics
+KW  - Education--Computer Applications
+KW  - Internet
+KW  - Mobile Devices
+KW  - Preferences
+KW  - Smartphones
+KW  - Sociodemographic Characteristics
+KW  - Surveys
+KW  - Technology
+KW  - Websites
+KW  - Young Adults
+KW  - article
+KW  - computer methods, media, & applications
+KW  - mobile web survey
+KW  - mobile web survey unintended mobile response survey error web panel respondent preference
+KW  - respondent preference
+KW  - survey error
+KW  - unintended mobile response
+KW  - web panel
+PY  - 2014
+SP  - 728
+EP  - 742
+TI  - Mobile Response in Web Panels
+T2  - Social Science Computer Review
+VL  - 32
+ER  -
+TY  - JOUR
+AB  - This research note presents the results of an experiment that investigated how response rates and data quality could be improved for smartphone web surveys. First, we compare how invitations by text message versus by e-mail affect response rate. Text message invitations result in a similar total response rate as e-mail invitations when considering response via all types of online devices. When considering response via smartphones only, the survey completion rate is significantly higher. The text message contact mode also leads to a faster speed of initial response. Second, we examine the response effects of several questionnaire-design choices when using smartphones: paging versus scrolling, horizontal versus vertical question layout, number of answer options, and open-ended versus closed-ended questions. According to our findings, a scrolling layout leads to a shorter completion time than a paging layout. We further suggest that caution be used with horizontal and long-answer scales as well as open-ended text answer fields in smartphone surveys.
+AU  - De Bruijne, Marika
+AU  - Wijnant, Arnaud
+DO  - 10.1093/poq/nfu046
+IS  - 4
+KW  - 0827: mass phenomena
+KW  - 7100:Market research
+KW  - 9121: political behavior
+KW  - 9130:Experiment/theoretical treatment
+KW  - Choices
+KW  - Comparative analysis
+KW  - Data Quality
+KW  - Electronic Mail
+KW  - Experiments
+KW  - Internet
+KW  - ORDER
+KW  - Political Science
+KW  - Polls & surveys
+KW  - Questionnaires
+KW  - Research
+KW  - Research Design
+KW  - Research Responses
+KW  - Response rates
+KW  - Smartphones
+KW  - Studies
+KW  - Surveys
+KW  - article
+KW  - political behavior
+KW  - public opinion
+PY  - 2014
+SP  - 951
+EP  - 962
+TI  - Improving Response Rates and Questionnaire Design for Mobile Web Surveys
+T2  - Public Opinion Quarterly
+VL  - 78
+ER  -
+TY  - JOUR
+AB  - Mixed-mode surveys have been around since the late 1980s. In the past thirty years, major changes in technology and society influenced and changed data collection and survey methodology. However, in those years, mixed-mode strategies remained part of the daily survey practice, although the type of mix implemented followed the changes in technology and data collection methods. In this paper, I summarize the state of the art in traditional mixed-mode surveys and discuss implications for mixed device surveys.
+AU  - DeLeeuw, Edith D.
+DO  - 10.18148/srm/2018.v12i2.7402
+IS  - 2
+KW  - ASSOCIATION
+KW  - DESIGNS
+KW  - FACE-TO-FACE
+KW  - IMPACT
+KW  - METAANALYSIS
+KW  - NONRESPONSE BIAS
+KW  - PARTICIPATION RATES
+KW  - SOCIAL DESIRABILITY BIAS
+KW  - TELEPHONE SURVEYS
+KW  - WEB SURVEYS
+KW  - adjustment
+KW  - equivalence
+KW  - mobile surveys
+KW  - mode measurement effect
+KW  - mode selection effect
+KW  - multiple devices
+KW  - multiple modes
+KW  - offline surveys
+KW  - online surveys
+KW  - prevention
+PY  - 2018
+SP  - 75
+EP  - 89
+TI  - Mixed-Mode: Past, Present, and Future
+T2  - Survey Research Methods
+VL  - 12
+ER  -
+TY  - JOUR
+AB  - It is increasingly common for respondents to complete web surveys using mobile devices (smartphones and tablets) rather than personal computers/laptops (PCs). Evidence of the impact of the use of mobile devices on response and data quality shows mixed results and is only available for general population surveys. We looked at response quality for a work-related survey in the UK among general practitioners (GPs). GPs were sent email invitations to complete a web survey and half (55%) completed it on a mobile device. While GPs using a mobile device were less likely to complete the full questionnaire than those using a PC, we found no differences in data quality between mobile and PC users, except for PC users being more likely to respond to open-ended questions.
+AU  - Erens, Bob
+AU  - Manacorda, Tommaso
+AU  - Gosling, Jennifer
+AU  - Mays, Nicholas
+AU  - Reid, David
+AU  - Taylor, William
+PY  - 2019
+SP  - 15
+EP  - 26
+TI  - Comparing data quality from personal computers and mobile devices in an online survey among professionals Funding acknowledgement
+T2  - Social Research Practice
+VL  - 7
+ER  -
+TY  - JOUR
+AB  - In recent years, mobile devices are increasingly considered to access the World Wide Web. Several survey research organizations are about to use this technology as a means of conducting self-administered surveys. Among other advantages it allows survey researchers to overcome the lack of random selection procedures in online surveys since it provides the opportunity to use RDD-like probability sampling of cell phone numbers. However, low penetration rates of smart phones raise concerns that the coverage bias of a mobile Web survey might in fact harm survey estimates considerably. In this paper, we report results of a simulation study on the coverage bias of the mobile Web population across European countries. Based on a subset of the Eurobarometer data we estimate the relative coverage bias of the smart phone population in contrast to the general population. Even though we observed an incline of the mobile Web penetration rates over the course of the past years, coverage biases were still considerably large for socio-demographic variables. Nevertheless, in a few European countries mobile Web coverage biases are already smaller than the coverage biases of the population with traditional landline Internet access. Adapted from the source document.
+AU  - Fuchs, Marek
+AU  - Busse, Britta
+IS  - 1
+KW  - 0827: mass phenomena
+KW  - 9121: political behavior
+KW  - Access
+KW  - Bias
+KW  - Courses
+KW  - Europe
+KW  - Internet
+KW  - Mobile Web
+KW  - Sampling
+KW  - Simulation
+KW  - Surveys
+KW  - article
+KW  - data collection
+KW  - data quality
+KW  - political behavior
+KW  - public opinion
+KW  - smart phone
+KW  - survey
+PY  - 2009
+SP  - 21
+EP  - 33
+TI  - The Coverage Bias of Mobile Web Surveys Across European Countries
+T2  - International Journal of Internet Science
+VL  - 4
+ER  -
+TY  - JOUR
+AB  - Across two studies, we aimed to determine the row and column size in matrix-style questions that best optimizes participant experience and data quality for computer and mobile users. In Study 1 (N = 2,492), respondents completed 20 questions (comprising four short scales) presented in a matrix grid (converted to item-by-item format on mobile phones). We varied the number of rows (5, 10, or 20) and columns (3, 5, or 7) of the matrix on each page. Outcomes included both data quality (straightlining, item skip rate, and internal reliability of scales) and survey experience measures (dropout rate, rating of survey experience, and completion time). Results for row size revealed dropout rate and reported survey difficulty increased as row size increased. For column size, seven columns increased the completion time of the survey, while three columns produced lower scale reliability. There was no interaction between row and column size. The best overall size tested was a 5 ? 5 matrix. In Study 2 (N = 2,570), we tested whether the effects of row size replicated when using a single 20-item scale that crossed page breaks and found that participant survey ratings were still best in the five-row condition. These results suggest that having around five rows or potentially fewer per page, and around five columns for answer options, gives the optimal survey experience, with equal or better data quality, when using matrix-style questions in an online survey. These recommendations will help researchers gain the benefits of using matrices in their surveys with the least downsides of the format.
+AU  - Grady, Rebecca H.
+AU  - Greenspan, Rachel L.
+AU  - Liu, Mingna
+DO  - 10.1177/0894439318773733
+IS  - 3
+KW  - Balances (scales)
+KW  - Completion time
+KW  - DESIGN
+KW  - Data quality
+KW  - Education--Computer Applications
+KW  - Format
+KW  - GRIDS
+KW  - Internet
+KW  - Matrices
+KW  - Mobile computing
+KW  - NUMBER
+KW  - Polls & surveys
+KW  - RESPONSES
+KW  - Reliability
+KW  - WEB
+KW  - data quality
+KW  - matrix format
+KW  - matrix size
+KW  - web survey
+PY  - 2019
+SP  - 435
+EP  - 445
+TI  - What Is the Best Size for Matrix-Style Questions in Online Surveys?
+T2  - Social Science Computer Review
+UR  - https://doi.org/10.1177/0894439318773733
+UR  - https://primo-49man.hosted.exlibrisgroup.com/openurl/MAN/MAN_UB_service_page?url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&genre=article&sid=ProQ:ProQ%3Asocabs&atitle=What+Is+the+Best+Size+for+Matrix-Style+Questions+in+Online+Surveys%3F&title=Social+Science+Computer+Review&issn=08944393&date=2019-06-01&volume=37&issue=3&spage=435&au=Grady%2C+Rebecca+Hofstein%3BGreenspan%2C+Rachel+Leigh%3BLiu+Mingnan&isbn=&jtitle=Social+Science+Computer+Review&btitle=&rft_id=info:eric/&rft_id=info:doi/10.1177%2F0894439318773733
+VL  - 37
+ER  -
+TY  - JOUR
+AB  - Mobile coverage recently has reached an all-time high, and in most countries, high-speed Internet connections are widely available. Due to technological development, smartphones and tablets have become increasingly popular. Accordingly, we have observed an increasing use of mobile devices to complete web surveys and, hence, survey methodologists have shifted their attention to the challenges that stem from this development. The present study investigated whether the growing use of smartphones has decreased how systematically this choice of device varies between groups of respondents (i.e., how selective smartphone usage for completing web surveys is). We collected a data set of 18,520 respondents from 18 web surveys that were fielded in Germany between 2012 and 2016. Based on these data, we show that while the use of smartphones to complete web surveys has considerably increased over time, selectivity with respect to using this device has remained stable.
+AU  - Gummer, Tobias
+AU  - Quoß, Franziska
+AU  - Roßmann, Joss
+DO  - 10.1177/0894439318766836
+IS  - 3
+KW  - BIAS
+KW  - Choice Behavior
+KW  - DATA QUALITY
+KW  - Education--Computer Applications
+KW  - Electronic devices
+KW  - Focus groups
+KW  - IMPROVING RESPONSE
+KW  - Internet
+KW  - Microcomputers
+KW  - Mobile Devices
+KW  - Mobile communication systems
+KW  - PC
+KW  - PROBABILITY-BASED PANEL
+KW  - Polls & surveys
+KW  - Selectivity
+KW  - Smartphones
+KW  - Surveys
+KW  - TABLETS
+KW  - Tablet computers
+KW  - Technological change
+KW  - device choice
+KW  - mobile devices
+KW  - selectivity
+KW  - smartphone
+KW  - smartphones
+KW  - survey error
+KW  - web surveys
+PY  - 2019
+SP  - 371
+EP  - 384
+TI  - Does Increasing Mobile Device Coverage Reduce Heterogeneity in Completing Web Surveys on Smartphones?
+T2  - Social Science Computer Review
+VL  - 37
+ER  -
+TY  - JOUR
+AB  - Interview duration is an important variable in web surveys because it is a direct measure of the response burden. In this article, we analyze the effects of the survey design, respondent characteristics, and the interaction between these effects on interview duration. For that purpose, we applied multilevel analysis to a data set of 21 web surveys on political attitudes and behavior. Our results showed that factors on both levels, the individual and the survey level, had effects on interview duration. However, the larger share of the variation in interview duration is explained by the characteristics of the respondents. In this respect, we illustrate the impact of mobile devices and panel recruitment on interview duration. In addition, we found important relationships between the respondents? attitudes and how a web survey is designed: Highly motivated respondents spent significantly more time answering cognitively demanding questions than less motivated respondents. When planning a survey, not only the number and formats of questions need to be taken into account but also the expected sample composition and how the participants will respond to the design of the web survey.
+AU  - Gummer, Tobias
+AU  - Roßmann, Joss
+DO  - 10.1177/0894439314533479
+IS  - 2
+KW  - AGE
+KW  - Attitude surveys
+KW  - BURDEN
+KW  - DATA QUALITY
+KW  - DESIGN
+KW  - Data analysis
+KW  - EXPERIENCE
+KW  - Education--Computer Applications
+KW  - INDICATORS
+KW  - Internet
+KW  - Interviews
+KW  - LENGTH
+KW  - Mobile Phones
+KW  - ORDER
+KW  - Political Attitudes
+KW  - Political behavior
+KW  - RESPONSE-TIMES
+KW  - Research methodology
+KW  - SURVEY QUESTIONS
+KW  - Web services
+KW  - interview duration
+KW  - mobile devices
+KW  - multilevel analysis
+KW  - online panels
+KW  - web survey design
+PY  - 2015
+SP  - 217
+EP  - 234
+TI  - Explaining Interview Duration in Web Surveys: A Multilevel Approach
+T2  - Social Science Computer Review
+VL  - 33
+ER  -
+TY  - JOUR
+AB  - Purpose Low response rates in web surveys and the use of different devices in entering web survey responses are the two main challenges to response quality of web surveys. The purpose of this study is to compare the effects of using interviewers to recruit participants in computer-assisted self-administered interviews (CASI) vs computer-assisted personal interviews (CAPI) and smartphones vs computers on participation rate and web survey response quality. Design/methodology/approach Two field experiments using two similar media use studies on US college students were conducted to compare response quality in different survey modes and response devices. Findings Response quality of computer entry was better than smartphone entry in both studies for open-ended and closed-ended question formats. Device effect was only significant on overall completion rate when interviewers were present. Practical implications Survey researchers are given guidance how to conduct online surveys using different devices and choice of question format to maximize survey response quality. The benefits and limitations of using an interviewer to recruit participants and smartphones as web survey response devices are discussed. Social implications It shows how computer-assisted self-interviews and smartphones can improve response quality and participation for underprivileged groups. Originality/value This is the first study to compare response quality in different question formats between CASI, e-mailed delivered online surveys and CAPI. It demonstrates the importance of human factor in creating sense of obligation to improve response quality.
+AU  - Ha, Louisa,
+AU  - Zhang, Chenjie
+AU  - Jiang, Weiwei
+DO  - 10.1108/INTR-09-2018-0417
+IS  - 6
+KW  - Computer-assisted personal Interview
+KW  - Computer-assisted self-interview
+KW  - DESIGN
+KW  - Data quality
+KW  - FACE-TO-FACE
+KW  - INDICATORS
+KW  - Interviewer
+KW  - MAIL
+KW  - NONRESPONSE
+KW  - ONLINE SURVEYS
+KW  - Smartphone
+KW  - Survey mode
+PY  - 2020
+SP  - 1763
+EP  - 1781
+TI  - Data quality comparison between computers and smartphones in different web survey modes and question formats
+T2  - Internet Research
+VL  - 30
+ER  -
+TY  - JOUR
+AB  - Purpose The purpose of this paper is to examine the effect of smartphones and computers as web survey entry response devices on the quality of responses in different question formats and across different survey invitations delivery modes. The respondents' preference of device and the response immediacy were also compared.
+Design/methodology/approach Two field experiments were conducted with a cluster sampling and a census of all students in a public university in the USA.
+Findings Device effect on response quality was only found when using computer-aided self-interviews, but not in e-mail delivered web surveys. Even though the computer was the preferred device, but the smartphone's immediate response was significantly higher than the computer.
+Research limitations/implications The sample was restricted to college students who are more proficient users of smartphones and have high access to computers. But the direct comparison in the two studies using the same population increases the internal validity of the study comparing different web survey delivery modes.
+Practical implications Because of the minor differences in device on response quality, researchers can consider using more smartphones for field work such as computer-aided self-interviews to complement e-mail delivered surveys.
+Originality/value This is the first study that compares the response device effects of computer-aided self-interviews and e-mailed delivered web surveys. Because web surveys are increasingly used and various devices are being used to collect data, how respondents behave in different devices and the strengths and weaknesses of different methods of delivery survey help researchers to improve data quality and develop effective web survey delivery and participant recruitment.
+AU  - Ha, Louisa,
+AU  - Zhang, Chenjie
+DO  - 10.1108/OIR-11-2017-0322
+IS  - 3
+KW  - Computer-aided self-interviews
+KW  - DATA-COLLECTION
+KW  - DESIGN
+KW  - MOBILE
+KW  - MODES
+KW  - Mobile survey
+KW  - PC WEB
+KW  - QUALITY
+KW  - Smartphones
+KW  - Survey response quality
+KW  - Web survey
+PY  - 2019
+SP  - 350
+EP  - 368
+TI  - Are computers better than smartphones for web survey responses?
+T2  - Online Information Review
+VL  - 43
+ER  -
+TY  - JOUR
+AB  - In this study, we investigate whether mobile device use in surveys can be predicted. We aim to identify possible motives for device use and build a model by drawing on theory from technology acceptance research and survey research. We then test this model with a Structural Equation Modeling approach using data of seven waves of the GESIS panel. We test whether our theoretical model fits the data by focusing on measures of fit, and by studying the standardized effects of the model. Results reveal that intention to use a particular device can predict actual use quite well. Ease of smartphone use is the most meaningful variable: if people use a smartphone for specific tasks, their intention to use a smartphone for survey completion is also more likely. In conclusion, investing in ease of use of mobile survey completion could encourage respondents to use mobile devices. This can foremost be established by building well-designed surveys for mobile devices.
+AU  - Haan, Marieke
+AU  - Lugtig, Peter
+AU  - Toepoel, Vera
+DO  - 10.1080/13645579.2019.1593340
+IS  - 5
+KW  - ACCEPTANCE
+KW  - Mobile device use
+KW  - ONLINE SURVEYS
+KW  - TECHNOLOGY
+KW  - WEB
+KW  - mixed device
+KW  - panel survey
+KW  - technology acceptance
+PY  - 2019
+SP  - 517
+EP  - 531
+TI  - Can we predict device use? An investigation into mobile device use in surveys
+T2  - International Journal of Social Research Methodology
+VL  - 22
+ER  -
+TY  - JOUR
+AB  - Background and Objective Recent evidence has shown that online surveys can reliably collect preference data, which markedly decrease the cost of health preference studies and expand their representativeness. As the use of mobile technology continues to grow, we wanted to examine its potential impact on health preferences. Methods Two recently completed discrete choice experiments using members of the US general population (n = 15,292) included information on respondent device (cell phone, tablet, Mac, PC) and internet connection (business, cellular, college, government, residential). In this analysis, we tested for differences in respondent characteristics, participation, response quality, and utility values for the 5-level EQ-5D (EQ-5D-5L) by device and connection. Results Compared to Mac and PC users, respondents using a cell phone or tablet had longer completion times and were significantly more likely to drop out during the surveys (p < 0.001). Tablet users also demonstrated more logical inconsistencies (p = 0.05). Likewise, respondents using a cellular internet connection exhibit significantly less consistency in their health preferences. However, matched samples for tablets and cell phones produced similar EQ-5D-5L utility values (mean differences < 0.06 on a quality-adjusted life-year [QALY] scale for all potential health states). Conclusion Allowing respondents to complete online surveys using a cell phone or tablet or over a cellular connection substantially increases the diversity of respondents and the likelihood of obtaining a representative sample, as many individuals have cell phones but not a computer. While the results showed systematic variability in participation and response quality by device and connection type, this study did not show any meaningful changes in utility values.
+AU  - Hartman, John D.
+AU  - Craig, Benjamin M.
+DO  - 10.1007/s40271-019-00380-z
+IS  - 6
+KW  - DATA QUALITY
+KW  - DISCRETE-CHOICE EXPERIMENTS
+KW  - LOGICAL INCONSISTENCIES
+KW  - MOBILE WEB
+KW  - PROBABILITY-BASED PANEL
+KW  - PROPENSITY SCORE
+KW  - SENSITIVE TOPICS
+KW  - SMARTPHONES
+KW  - STATE VALUATIONS
+KW  - WEB SURVEYS
+PY  - 2019
+SP  - 639
+EP  - 650
+TI  - Does Device or Connection Type Affect Health Preferences in Online Surveys?
+T2  - The Patient-Patient-Centered Outcomes Research
+VL  - 12
+ER  -
+TY  - JOUR
+AB  - Participation in web surveys via smartphones increased continuously in recent years. The reasons for this increase are a growing proportion of smartphone owners and an increase in mobile Internet access. However, research has shown that smartphone respondents are frequently distracted and/or multitasking, which might affect completion and response behavior in a negative way. We propose 'SurveyMotion (SMotion)', a JavaScript-based tool for mobile devices that can gather information about respondents' motions during web survey completion by using sensor data. Specifically, we collect data about the total acceleration (TA) of smartphones. We conducted a lab experiment and varied the form of survey completion (e.g. standing or walking). Furthermore, we employed questions with different response formats (e.g. radio buttons and sliders) and measured response times. The results reveal that SMotion detects higher TAs of smartphones for respondents with comparatively higher motion levels. In addition, respondents' motion level affects response times and the quality of responses given. The SMotion tool promotes the exploration of how respondents complete mobile web surveys and could be employed to understand how future mobile web surveys are completed.
+AU  - Höhne, Jan K.
+AU  - Schlosser, Stephan
+DO  - 10.1080/13645579.2018.1550279
+IS  - 4
+KW  - Acceleration
+KW  - Behavior
+KW  - Completion
+KW  - FORMATS
+KW  - GRIDS
+KW  - Internet access
+KW  - JavaScript
+KW  - MULTITASKING
+KW  - Owners
+KW  - PARADATA
+KW  - PCS
+KW  - Participation
+KW  - Polls & surveys
+KW  - QUALITY
+KW  - Radio
+KW  - Reaction time
+KW  - Respondents
+KW  - Smartphones
+KW  - Social Sciences: Comprehensive Works
+KW  - Telephone communications
+KW  - Walking
+KW  - mobile sensors
+KW  - passive data collection
+KW  - response quality
+KW  - smartphones
+KW  - web survey
+PY  - 2019
+SP  - 379
+EP  - 391
+TI  - SurveyMotion: what can we learn from sensor data about respondents' completion and response behavior in mobile web surveys?
+T2  - International Journal of Social Research Methodology
+UR  - https://www.proquest.com/scholarly-journals/surveymotion-what-can-we-learn-sensor-data-about/docview/2220295195/se-2?accountid=14570
+UR  - https://primo-49man.hosted.exlibrisgroup.com/openurl/MAN/MAN_UB_service_page?url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&genre=article&sid=ProQ:ProQ%3Asocabs&atitle=SurveyMotion%3A+what+can+we+learn+from+sensor+data+about+respondents%27+completion+and+response+behavior+in+mobile+web+surveys%3F&title=International+Journal+of+Social+Research+Methodology&issn=13645579&date=2019-07-01&volume=22&issue=4&spage=379&au=H%C3%B6hne%2C+Jan+Karem%3BSchlosser%2C+Stephan&isbn=&jtitle=International+Journal+of+Social+Research+Methodology&btitle=&rft_id=info:eric/&rft_id=info:doi/10.1080%2F13645579.2018.1550279
+VL  - 22
+ER  -
+TY  - JOUR
+AB  - The increased use of smartphones in web survey responding did not only raise new research questions but also fostered new ways to research survey completion behavior. Smartphones have many built-in sensors, such as accelerometers that measure acceleration (i.e., the rate of change of velocity of an object over time). Sensor data establish new research opportunities by providing information about physical completion conditions that, for instance, can affect response quality. In this study, we explore three research questions: (1) To what extent do respondents accept to comply with motion instructions? (2) What variables affect the acceleration of smartphones? (3) Do different motion levels affect response quality? We conducted a smartphone web survey experiment using the Netquest opt-in panel in Spain and asked respondents to stand at a fix point or walk around while answering five single questions. The results reveal high compliance with motion instructions, with compliance being higher in the standing than in the walking condition. We also discovered that several variables, such as the presence of third parties, increase the acceleration of smartphones. However, the quality of responses to the five single questions did not differ significantly between the motion conditions, a finding that is in line with previous research. Our findings provide new insights into how compliance changes with motion tasks and suggest that the collection of acceleration data is a feasible and fruitful way to explore survey completion behavior. The findings also indicate that refined research on the connection between motion levels and response quality is necessary.
+AU  - Höhne, Jan K.
+AU  - Revilla, Melanie
+AU  - Schlosser, Stephan
+DO  - 10.1177/1470785319858587
+IS  - 1
+KW  - FORMATS
+KW  - MOBILE DEVICES
+KW  - PC
+KW  - QUESTIONS
+KW  - SurveyMotion
+KW  - TIMES
+KW  - WEB SURVEYS
+KW  - accelerometer
+KW  - compliance
+KW  - response quality
+KW  - smartphones
+KW  - survey completion behavior
+KW  - web survey
+PY  - 2020
+SP  - 43
+EP  - 57
+TI  - Motion instructions in surveys: Compliance, acceleration, and response quality
+T2  - International Journal of Market Research
+VL  - 62
+ER  -
+TY  - JOUR
+AB  - This research investigated the completing of a web-based personality assessment using smart phones and computers. Data were collected from 47 undergraduate students using a within subjects design. Results indicated that the usability and the time to complete the assessment of a web-based non-optimized questionnaire is significantly different when completed with a smart phone versus a computer. However, there were no significant differences in personality scores. (PsycInfo Database Record (c) 2020 APA, all rights reserved)
+AU  - Huff, Kyle C.
+DO  - 10.1016/j.chb.2015.03.008
+KW  - ABILITY
+KW  - Computer
+KW  - Computers
+KW  - DESIGN
+KW  - EQUIVALENCE
+KW  - INTERNET
+KW  - Mobile Phones
+KW  - Mobile assessment
+KW  - PAPER-AND-PENCIL
+KW  - PERSONALITY
+KW  - Personality
+KW  - Personality Measures
+KW  - TESTS
+KW  - Time
+KW  - Usability
+PY  - 2015
+SP  - 208
+EP  - 212
+TI  - The comparison of mobile devices to computers for web-based assessments
+T2  - Computers in Human Behavior
+VL  - 49
+ER  -
+TY  - JOUR
+AB  - Researchers attempting to survey refugees over time face methodological issues because of the transient nature of the target population. In this article, we examine whether applying smartphone technology could alleviate these issues. We interviewed 529 refugees and afterward invited them to four follow-up mobile web surveys and to install a research app for passive mobile data collection. Our main findings are as follows: First, participation in mobile web surveys declines rapidly and is rather selective with significant coverage and nonresponse biases. Second, we do not find any factor predicting types of smartphone ownership, and only low reading proficiency is significantly correlated with app nonparticipation. However, obtaining sufficiently large samples is challenging?only 5 percent of the eligible refugees installed our app. Third, offering a 30 Euro incentive leads to a statistically insignificant increase in participation in passive mobile data collection.
+AU  - Keusch, Florian
+AU  - Leonard, Mariel M.
+AU  - Sajons, Christoph
+AU  - Steiner, Susan
+DO  - 10.1177/0049124119852377
+IS  - 4
+KW  - Competence
+KW  - DISCLOSURE
+KW  - Data collection
+KW  - Germany
+KW  - HARM
+KW  - Internet
+KW  - MOBILE WEB
+KW  - Methodological problems
+KW  - Nonresponse
+KW  - Ownership
+KW  - Participation
+KW  - Polls & surveys
+KW  - RISK
+KW  - Refugees
+KW  - Smartphones
+KW  - Sociology
+KW  - Technology
+KW  - coverage
+KW  - mobile web surveys
+KW  - participation
+KW  - passive mobile data collection
+KW  - refugees
+KW  - smartphones
+PY  - 2021
+SP  - 1863
+EP  - 1894
+TI  - Using Smartphone Technology for Research on Refugees: Evidence from Germany
+T2  - Sociological Methods & Research
+UR  - https://primo-49man.hosted.exlibrisgroup.com/openurl/MAN/MAN_UB_service_page?url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&genre=article&sid=ProQ:ProQ%3Asocabs&atitle=Using+Smartphone+Technology+for+Research+on+Refugees%3A+Evidence+from+Germany&title=Sociological+Methods+and+Research&issn=00491241&date=2021-11-01&volume=50&issue=4&spage=1863&au=Keusch+Florian%3BLeonard%2C+Mariel+M%3BSajons+Christoph%3BSteiner%2C+Susan&isbn=&jtitle=Sociological+Methods+and+Research&btitle=&rft_id=info:eric/&rft_id=info:doi/10.1177%2F0049124119852377
+VL  - 50
+ER  -
+TY  - JOUR
+AB  - Due to a rising mobile device penetration, Web surveys are increasingly accessed and completed on smartphones or tablets instead of desktop computers or laptops. Mobile Web surveys are also gaining popularity as an alternative self-administered data collection mode among survey researchers. We conducted a methodological experiment among iPhone owners and compared the participation and response behavior of three groups of respondents: iPhone owners who started and completed our survey on a desktop or laptop PC, iPhone owners who self-selected to complete the survey on an iPhone, and iPhone owners who started on a PC but were requested to switch to iPhone. We found that respondents who completed the survey on a PC were more likely to be male, to have a lower educational level, and to have more experience with Web surveys than mobile Web respondents, regardless of whether they used the iPhone voluntarily or were asked to switch from a PC to an iPhone. Overall, iPhone respondents had more missing data and took longer to complete the survey than respondents who answered the questions on a PC, but they also showed less straightlining behavior. There are only minimal device differences on survey answers obtained from PCs and iPhones.
+AU  - Keusch, Florian
+AU  - Yan, Ting
+DO  - 10.1177/0894439316675566
+IS  - 6
+KW  - 83:Social and Behavioral Sciences (CI)
+KW  - Alternative approaches
+KW  - COMPUTER
+KW  - Data acquisition
+KW  - Data collection
+KW  - Education--Computer Applications
+KW  - Educational attainment
+KW  - Internet
+KW  - MECHANICAL TURK
+KW  - Microcomputers
+KW  - Missing data
+KW  - Mobile communication systems
+KW  - Mobile computing
+KW  - ONLINE SURVEYS
+KW  - PC
+KW  - PROBABILITY-BASED PANEL
+KW  - Participation
+KW  - Personal computers
+KW  - Polls & surveys
+KW  - QUALITY
+KW  - SMARTPHONE
+KW  - Smartphones
+KW  - Tablet computers
+KW  - Web surveys
+KW  - break-offs
+KW  - data quality
+KW  - iPhone
+KW  - missing data
+KW  - mobile Web surveys
+KW  - response times
+KW  - smartphones
+KW  - straightlining
+KW  - unintentional mobile
+PY  - 2017
+SP  - 751
+EP  - 769
+TI  - Web Versus Mobile Web: An Experimental Study of Device Effects and Self-Selection Effects
+T2  - Social Science Computer Review
+VL  - 35
+ER  -
+TY  - JOUR
+AB  - Researchers are combining self-reports from mobile surveys with passive data collection using sensors and apps on smartphones increasingly more often. While smartphones are commonly used in some groups of individuals, smartphone penetration is significantly lower in other groups. In addition, different operating systems (OSs) limit how mobile data can be collected passively. These limitations cause concern about coverage error in studies targeting the general population. Based on data from the Panel Study Labour Market and Social Security (PASS), an annual probability-based mixed-mode survey on the labor market and poverty in Germany, we find that smartphone ownership and ownership of smartphones with specific OSs are correlated with a number of sociodemographic and substantive variables. The use of weighting techniques based on sociodemographic information available for both owners and nonowners reduces these differences but does not eliminate them.
+AU  - Keusch, Florian
+AU  - Bähr, Sebastian
+AU  - Haas, Georg-Christoph
+AU  - Kreuter, Frauke
+AU  - Trappmann, Mark
+DO  - 10.1177/0049124120914924
+KW  - coverage error
+KW  - mobile web surveys
+KW  - operating systems
+KW  - passive mobile data collection
+KW  - smartphones
+PY  - 2020
+TI  - Coverage Error in Data Collection Combining Mobile Surveys With Passive Measurement Using Apps: Data From a German National Survey
+T2  - Sociological Methods & Research
+ER  -
+TY  - JOUR
+AB  - The effects of scale direction on response behavior are well known in the survey literature, where a variety of theoretical approaches are discussed, and mixed empirical findings are reported. In addition, different types of survey completion devices seem to vary in their susceptibility to scale direction effects. In this study, we therefore investigate the effect of scale direction and device type on response behavior in PC and smartphone surveys. To do so, we conducted a web survey experiment in a German non-probability access panel (N=3,401) using a two-step split-ballot design with four groups that are defined by device type (PC and smartphone) and scale direction (decremental and incremental). The results reveal that both PCs and smartphones are robust against scale direction effects. The results also show that response behavior differs substantially between PCs and smartphones, indicating that the device type (PC or smartphone) matters. In particular, the findings show that the comparability of data obtained through multi-device surveys is limited.
+AU  - Krebs, Dagmar
+AU  - Höhne, Jan K.
+DO  - 10.1093/jssam/smz058
+IS  - 3
+KW  - AGREE/DISAGREE
+KW  - ITEM-SPECIFIC QUESTIONS
+KW  - Latent means
+KW  - MEASUREMENT INVARIANCE
+KW  - MOBILE WEB
+KW  - Measurement invariance
+KW  - Multi-device survey
+KW  - NEED
+KW  - ORDER
+KW  - QUALITY
+KW  - Rating scales
+KW  - Response behavior
+KW  - Scale direction
+KW  - TABLETS
+KW  - WEB SURVEYS
+PY  - 2021
+SP  - 477
+EP  - 495
+TI  - EXPLORING SCALE DIRECTION EFFECTS AND RESPONSE BEHAVIOR ACROSS PC AND SMARTPHONE SURVEYS
+T2  - Journal of Survey Statistics and Methodology
+VL  - 9
+ER  -
+TY  - JOUR
+AB  - With the growing reliance on tablets and smartphones for internet access, understanding the effects of completion device on online survey responses becomes increasing important. This study uses data from the Strategic National Arts Alumni Project, a multi-institution online alumni survey designed to obtain knowledge of arts education, to explore the effects of what type of device (PC, Mac, tablet, or smartphone) a respondent uses has on his/her responses. Differences by device type in the characteristics of survey respondents, survey completion, time spent responding, willingness to answer complex and open-ended questions, and lengths of open-ended responses are discussed.
+AU  - Lambert, Amber D.
+AU  - Miller, Angie L.
+DA  - 2015/3//
+DO  - 10.1007/S11162-014-9354-7/TABLES/5
+IS  - 2
+KW  - Completion device
+KW  - Smartphones
+KW  - Survey response
+PB  - Kluwer Academic Publishers
+PY  - 2015
+SP  - 166
+EP  - 177
+TI  - Living with Smartphones: Does Completion Device Affect Survey Responses?
+T2  - Research in Higher Education
+VL  - 56
+ER  -
+TY  - JOUR
+AB  - Smartphones have become very popular globally, and smartphone ownership has overtaken conventional cell phone ownership in many countries in recent years. With this rapid rise in smartphone penetration, researchers are looking at ways to conduct web surveys using smartphones. This is particularly true of student populations where smartphone penetration is very high and web surveys are already the norm. However, researchers are raising concerns about selection biases and measurement differences between PC and smartphone respondents. Questions also remain about comparisons to traditional interviewer-administered approaches. We designed an experimental comparison between a PC web survey, a smartphone web survey and a computer-assisted telephone interviewing (CATI) survey. This study was conducted using an annual survey of students at a large university in South Korea. The CATI (interviewer-administered) survey had a higher response rate, lower margins of error, and better representation of the student population than the two web (self-administered) modes, but at a higher cost. The CATI survey also had lower rates of item nonresponse. More significant differences were found between the modes for sensitive questions than for nonsensitive ones. This suggests that CATI surveys may still have a role to play in surveys of college students, even in a country with high rates of mobile technology adoption. (PsycINFO Database Record (c) 2019 APA, all rights reserved)
+AU  - Lee, Hana
+AU  - Kim, Sunwoong
+AU  - Couper, Mick P.
+AU  - Woo, Youngje
+DO  - 10.1177/0894439318756867
+IS  - 2
+KW  - ALCOHOL
+KW  - College Students
+KW  - Computers
+KW  - Error of Measurement
+KW  - FACE-TO-FACE
+KW  - MODE
+KW  - Online Surveys
+KW  - SENSITIVE TOPICS
+KW  - Smartphones
+KW  - Telephone Surveys
+KW  - Test Administration
+KW  - completion times
+KW  - coverage
+KW  - item nonresponse
+KW  - measurement error
+KW  - response rate
+KW  - smartphone survey
+KW  - survey costs
+KW  - telephone survey
+KW  - web survey
+PY  - 2019
+SP  - 234
+EP  - 247
+TI  - Experimental comparison of PC web, smartphone web, and telephone surveys in the new technology era
+T2  - Social Science Computer Review
+VL  - 37
+ER  -
+TY  - JOUR
+AB  - Web surveys are becoming increasingly popular in survey research including stated preference surveys. Compared with face-to-face, telephone and mail surveys, web surveys may contain a different and new source of measurement error and bias: the type of device that respondents use to answer the survey questions. This is the first study that tests whether the use of mobile devices, tablets or smartphones, affects survey characteristics and stated preferences in a web-based choice experiment. The web survey on expanding renewable energy production in Germany was carried out with 3182 respondents, of which 12% used a mobile device. Propensity score matching is used to account for selection bias in the use of mobile devices for survey completion. We find that mobile device users spent more time than desktop/laptop users to answer the survey. Yet, desktop/laptop users and mobile device users do not differ in acquiescence tendency as an indicator of extreme response patterns. For mobile device users only, we find a negative correlation between screen size and interview length and a positive correlation between screen size and acquiescence tendency. In the choice experiment data, we do not find significant differences in the tendency to choose the status quo option and scale between both subsamples. However, some of the estimates of implicit prices differ, albeit not in a unidirectional fashion. Model results for mobile device users indicate a U-shaped relationship between error variance and screen size. Together, the results suggest that using mobile devices is not detrimental to survey quality. (C) 2015 Elsevier Ltd. All rights reserved.
+AU  - Liebe, Ulf
+AU  - Glenk, Klaus
+AU  - Oehlmann, Malte
+AU  - Meyerhoff, Jürgen
+DO  - 10.1016/j.jocm.2015.02.002
+KW  - Acquiescence bias
+KW  - COMPLEXITY
+KW  - Choice experiment
+KW  - FACE-TO-FACE
+KW  - INTERNET
+KW  - Mobile device
+KW  - Propensity score matching
+KW  - Renewable energy
+KW  - SCALE
+KW  - Sample selection bias
+KW  - Smartphone
+KW  - Survey format
+KW  - Survey quality
+KW  - VALUATION
+PY  - 2015
+SP  - 17
+EP  - 31
+TI  - Does the use of mobile devices (tablets and smartphones) affect survey quality and choice behaviour in web surveys?
+T2  - Journal of choice modelling
+VL  - 14
+ER  -
+TY  - JOUR
+AU  - Link, Michael W.
+AU  - Murphy, Joe
+AU  - Schober, Michael F.
+AU  - Buskirk, Trent D.
+AU  - Hunter Childs, Jennifer
+AU  - Langer Tesfaye, Casey
+DO  - 10.1093/POQ/NFU054
+IS  - 4
+PY  - 2014
+SP  - 779
+EP  - 787
+TI  - Mobile technologies for conducting, augmenting and potentially replacing surveys
+T2  - Public Opinion Quarterly
+VL  - 78
+ER  -
+TY  - JOUR
+AB  - Respondents in an Internet panel survey can often choose which device they use to complete questionnaires: a traditional PC, laptop, tablet computer, or a smartphone. Because all these devices have different screen sizes and modes of data entry, measurement errors may differ between devices. Using data from the Dutch Longitudinal Internet Study for the Social sciences panel, we evaluate which devices respondents use over time. We study the measurement error associated with each device and show that measurement errors are larger on tablets and smartphone than on PCs. To gain insight into the causes of these differences, we study changes in measurement error over time, associated with a switch of devices over two consecutive waves of the panel. We show that within individuals, measurement errors do not change with a switch in device. Therefore, we conclude that the higher measurement error in tablets and smartphones is associated with self-selection of the sample into using a particular device.
+AU  - Lugtig, Peter
+AU  - Toepoel, Vera
+DO  - 10.1177/0894439315574248
+IS  - 1
+KW  - MOBILE WEB SURVEYS
+KW  - measurement error
+KW  - mixed device
+KW  - mobile phones
+KW  - panel survey
+KW  - tablets
+PY  - 2016
+SP  - 78
+EP  - 94
+TI  - The Use of PCs, Smartphones, and Tablets in a Probability-Based Panel Survey: Effects on Survey Measurement Error
+T2  - Social Science Computer Review
+VL  - 34
+ER  -
+TY  - JOUR
+AB  - A sizable minority of all web surveys are nowadays completed on smartphones. People who choose a smartphone for Internet-related tasks are different from people who mainly use a PC or tablet. Smartphone use is particularly high among the young and urban. We have to make web surveys attractive for smartphone completion in order not to lose these groups of smartphone users. In this paper we study how to encourage people to complete surveys on smartphones in order to attract hard-to-reach subgroups of the population. We experimentally test new features of a survey-friendly design: we test two versions of an invitation letter to a survey, a new questionnaire lay-out, and autoforwarding. The goal of the experiment is to evaluate whether the new survey design attracts more smartphone users, leads to a better survey experience on smartphones and results in more respondents signing up to become a member of a probability-based online panel. Our results show that the invitation letter that emphasizes the possibility for smartphone completion does not yield a higher response rate than the control condition, nor do we find differences in the socio-demographic background of respondents. We do find that slightly more respondents choose a smartphone for survey completion. The changes in the layout of the questionnaire do lead to a change in survey experience on the smartphone. Smartphone respondents need 20% less time to complete the survey when the questionnaire includes autoforwarding. However, we do not find that respondents evaluate the survey better, nor are they more likely to become a member of the panel when asked at the end of the survey. We conclude with a discussion of autoforwarding in web surveys and methods to attract smartphone users to web surveys.
+AU  - Lugtig, Peter
+AU  - Toepoel, Vera
+AU  - Haan, Marieke
+AU  - Zandvliet, Robbert
+AU  - Klein Kranenburg, Laurens
+DO  - 10.12758/mda.2019.04
+IS  - 2
+KW  - Datengewinnung
+KW  - Datenqualität
+KW  - Mobiltelefon
+KW  - Online-Befragung
+KW  - Panel
+KW  - Stichprobe
+KW  - Umfrageforschung
+KW  - cell phone
+KW  - data capture
+KW  - data quality
+KW  - online survey
+KW  - panel
+KW  - sample
+KW  - survey research
+PY  - 2019
+SP  - 291
+EP  - 306
+TI  - Recruiting Young and Urban Groups into a Probability-Based Online Panel by Promoting Smartphone Use
+T2  - methods, data, analyses
+VL  - 13
+ER  -
+TY  - JOUR
+AB  - This study explores some features of slider bars in the context of a multi-device web survey. Using data collected among the students of the University of Trento in 2015 and 2016 by means of two web surveys (N = 6,343 and 4,124) including two experiments, we investigated the effect of the initial position of the handle and the presence of numeric labels on answers provided using slider bars. It emerged that the initial position of the handle affected answers and that the number of rounded scores increased with numeric feedback. Smartphone respondents appeared more sensitive to the initial position of the handle but also less affected by the presence of numeric labels resulting in a lower tendency to rounding. Yet, outcomes on anchoring were inconclusive. Overall, no relevant differences have been detected between tablet and PC respondents. Understanding to what extent interactive and engaging tools such as slider bars can be successfully employed in multi-device surveys without affecting data quality is a key challenge for those who want to exploit the potential of web-based and multi-device data collection without undermining the quality of measurement.
+AU  - Maineri, Angelica M.
+AU  - Bison, Ivano
+AU  - Luijkx, Ruud
+DO  - 10.1177/0894439319879132
+IS  - 4
+KW  - Bars
+KW  - COMPUTER
+KW  - College students
+KW  - DATA QUALITY
+KW  - DESIGN
+KW  - Data collection
+KW  - Data quality
+KW  - Education--Computer Applications
+KW  - FORMATS
+KW  - Internet
+KW  - Labels
+KW  - MOBILE
+KW  - Polls & surveys
+KW  - RADIO BUTTON SCALES
+KW  - RELIABILITY
+KW  - Rounding
+KW  - SMARTPHONE
+KW  - VISUAL ANALOG SCALES
+KW  - mobile surveys
+KW  - multi-device surveys
+KW  - slider question
+KW  - sliders
+KW  - survey experiment
+KW  - web surveys
+PY  - 2021
+SP  - 573
+EP  - 591
+TI  - Slider Bars in Multi-Device Web Surveys
+T2  - Social Science Computer Review
+VL  - 39
+ER  -
+TY  - JOUR
+AB  - This article explores the comparability of assessment tools under different format conditions. Prior studies have not considered the interaction of format and device on time to complete an assessment and have instead treated each of them separately with conflicting results. This study assesses, by linear regressions using web-based data, the performance of multiple devices under varying formats while controlling for non-device factors such as demographic information. The results of this study add to the growing literature on the equivalence among devices and formats used to collect and interpret performance in a variety of organizational settings.
+AU  - Mason, Robert
+AU  - Huff, Kyle C.
+DO  - 10.1080/13645579.2018.1542150
+IS  - 3
+KW  - ABILITY
+KW  - COMPUTERS
+KW  - Computer based
+KW  - DESIGN
+KW  - Demographic aspects
+KW  - EQUIVALENCE
+KW  - Evaluation
+KW  - Internet
+KW  - MOBILE
+KW  - Mobile
+KW  - Organizational effectiveness
+KW  - PAPER
+KW  - Questionnaires
+KW  - Social Sciences: Comprehensive Works
+KW  - TESTS
+KW  - format
+KW  - questionnaire
+KW  - survey
+KW  - usability
+KW  - web
+PY  - 2019
+SP  - 271
+EP  - 280
+TI  - The effect of format and device on the performance and usability of web-based questionnaires
+T2  - International Journal of Social Research Methodology
+UR  - https://primo-49man.hosted.exlibrisgroup.com/openurl/MAN/MAN_UB_service_page?url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&genre=article&sid=ProQ:ProQ%3Asocabs&atitle=The+effect+of+format+and+device+on+the+performance+and+usability+of+web-based+questionnaires&title=International+Journal+of+Social+Research+Methodology&issn=13645579&date=2019-05-01&volume=22&issue=3&spage=271&au=Mason%2C+Robert%3BHuff%2C+Kyle&isbn=&jtitle=International+Journal+of+Social+Research+Methodology&btitle=&rft_id=info:eric/&rft_id=info:doi/10.1080%2F13645579.2018.1542150
+VL  - 22
+ER  -
+TY  - JOUR
+AB  - While grids or matrix questions are a widely used format in PC web surveys, there is no agreement on the format in mobile web surveys. We conducted a two-wave experiment in an opt in panel in Russia, varying the question format (grid format and item-by-item format) and device respondents used for survey completion (smartphone and PC). The 1,678 respondents completed the survey in the assigned conditions in the first wave and 1,079 in the second wave. Overall, we found somewhat higher measurement error in the grid format in both mobile and PC web conditions. We found almost no significant effect of the question format on test?retest correlations between the latent scores in two waves and no differences in breakoff rates between the question formats. The multigroup comparison showed some measurement equivalence between the question formats. However, the difference varied depending on the length of a scale with a longer scale producing some differences in the measurement equivalence between the conditions. The levels of straightlining were higher in the grid than in the item-by-item format. In addition, concurrent validity was lower in the grid format in both PC and mobile web conditions. Finally, subjective indicators of respondent burden showed that the grid format increased reported technical difficulties and decreased subjective evaluation of the survey.
+AU  - Mavletova, Aigul
+AU  - Couper, Mick P.
+AU  - Lebedev, Daniil
+DO  - 10.1177/0894439317735307
+IS  - 6
+KW  - DESIGN
+KW  - Education--Computer Applications
+KW  - Equivalence
+KW  - Error analysis
+KW  - Format
+KW  - Internet
+KW  - MEASUREMENT INVARIANCE
+KW  - Measurement errors
+KW  - Mobile Devices
+KW  - Online Surveys
+KW  - Polls & surveys
+KW  - Psychometrics
+KW  - Scales
+KW  - Smartphones
+KW  - Test Validity
+KW  - concurrent validity
+KW  - grid questions
+KW  - item-by-item format
+KW  - matrix questions
+KW  - measurement equivalence
+KW  - measurement error
+KW  - mobile web surveys
+KW  - reliability
+KW  - web surveys
+PY  - 2018
+SP  - 647
+EP  - 668
+TI  - Grid and Item-by-Item Formats in PC and Mobile Web Surveys
+T2  - Social Science Computer Review
+VL  - 36
+ER  -
+TY  - JOUR
+AB  - The considerable growth in the number of smart mobile devices with a fast Internet connection provides new challenges for survey researchers. In this article, I compare the data quality between two survey modes: self-administered web surveys conducted via personal computer and those conducted via mobile phones. Data quality is compared based on five indicators: (a) completion rates, (b) response order effects, (c) social desirability, (d) non-substantive responses, and (e) length of open answers. I hypothesized that mobile web surveys would result in lower completion rates, stronger response order effects, and less elaborate answers to open-ended questions. No difference was expected in the level of reporting in sensitive items and in the rate of non-substantive responses. To test the assumptions, an experiment with two survey modes was conducted using a volunteer online access panel in Russia. As expected, mobile web was associated with a lower completion rate, shorter length of open answers, and similar level of socially undesirable and non-substantive responses. However, no stronger primacy effects in mobile web survey mode were found.
+AU  - Mavletova, Aigul
+DO  - 10.1177/0894439313485201
+IS  - 6
+KW  - 0188: methodology and research technology
+KW  - AUDIO
+KW  - BIAS
+KW  - Comparative studies
+KW  - Data Collection
+KW  - Data Quality
+KW  - Data analysis
+KW  - Education--Computer Applications
+KW  - Internet
+KW  - Internet access
+KW  - METAANALYSIS
+KW  - MODE
+KW  - Methodology (Data Collection)
+KW  - Microcomputers
+KW  - Mobile Devices
+KW  - NONRESPONSE
+KW  - Polls & surveys
+KW  - Quality
+KW  - RESPONSE RATES
+KW  - Russia
+KW  - SENSITIVE QUESTIONS
+KW  - Smartphones
+KW  - Social Desirability
+KW  - Surveys
+KW  - Volunteers
+KW  - article
+KW  - completion rates
+KW  - computer methods, media, & applications
+KW  - data quality
+KW  - length of open-ended questions
+KW  - mobile devices
+KW  - mobile web surveys
+KW  - non-substantive responses
+KW  - personal computers
+KW  - primacy effects
+KW  - response order effects
+KW  - social desirability
+KW  - web surveys
+KW  - web surveys mobile web surveys data quality completion rates response order effects primacy effects social desirability non-substantive responses length of open-ended questions
+PY  - 2013
+SP  - 725
+EP  - 743
+TI  - Data Quality in PC and Mobile Web Surveys
+T2  - Social Science Computer Review
+VL  - 31
+ER  -
+TY  - JOUR
+AB  - There is some evidence that a scrolling design may reduce breakoffs in mobile web surveys compared to a paging design, but there is little empirical evidence to guide the choice of the optimal number of items per page. We investigate the effect of the number of items presented on a page on data quality in two types of questionnaires: with or without user-controlled skips. Three versions of a 30-item instrument were compared, with 5, 15, or all 30 questions presented on a page, in two different surveys, one with skips and one without. We found that displaying 30 items on a page reduced the breakoff rate by almost one-third compared to presenting five items per page in the questionnaire without skips, but the difference was not statistically significant. In both surveys with and without skips, the completion times were significantly lower in the 30-item per page condition; however, item nonresponse rates were also higher. We give some practical recommendations to guide choices while designing questionnaires for mobile web surveys. (PsycINFO Database Record (c) 2016 APA, all rights reserved)
+AU  - Mavletova, Aigul
+AU  - Couper, Mick P.
+DO  - 10.1177/1525822X15595151
+IS  - 2
+KW  - 0104:methodology and research technology
+KW  - 0514:culture and social structure
+KW  - Anthropology
+KW  - COMPUTER
+KW  - Choices
+KW  - DESIGN
+KW  - DEVICES
+KW  - Data quality
+KW  - Internet
+KW  - Item Analysis (Test)
+KW  - Online Experiments
+KW  - PC
+KW  - Polls & surveys
+KW  - Questionnaires
+KW  - SMARTPHONE
+KW  - Surveys
+KW  - Test Items
+KW  - breakoff rates
+KW  - mobile web surveys
+KW  - research methods/tools
+KW  - scrolling
+KW  - skips
+KW  - social anthropology
+PY  - 2016
+SP  - 170
+EP  - 193
+TI  - Grouping of items in mobile web questionnaires
+T2  - Field methods
+VL  - 28
+ER  -
+TY  - JOUR
+AB  - This study should be considered as a preliminary exploration of the effect of differential incentives on participation rates, the proportion of mobile respondents, and sample composition in web surveys. The experiment has some limitations, which should be taken into consideration in subsequent studies. First, the experiment is based on a sample of frequent mobile web users, and the results could be different from a sample of those who use mobile internet less frequently. Second, the experiment is based on a volunteer online access panel and the results could be different in a representative online panel. Third, we tested the differential incentives starting with incentives 50% higher than typical incentives. We suggest that it is worth exploring the effect of other incentives (e.g. 20% or 30% higher). Finally, we suggest that it is worth exploring the difference in participation rates between the conditions in which higher-than-typical incentives would be offered for all participants and when offered only for using a particular device. (PsycINFO Database Record (c) 2018 APA, all rights reserved)
+AU  - Mavletova, Aigul
+AU  - Couper, Mick P.
+DO  - 10.2501/IJMR-2016-034
+IS  - 4
+KW  - Incentives
+KW  - Internet
+KW  - Marketing
+KW  - Mobile Devices
+KW  - Surveys
+KW  - market research
+KW  - mobile devices
+KW  - web surveys
+PY  - 2016
+SP  - 523
+EP  - 544
+TI  - Device use in web surveys: The effect of differential incentives
+T2  - International Journal of Market Research
+VL  - 58
+ER  -
+TY  - JOUR
+AB  - A large number of findings in survey research suggest that responses to sensitive questions are situational and can vary in relation to context. The methodological literature demonstrates that social desirability biases are less prevalent in self-administered surveys, particularly in Web surveys, when there is no interviewer and less risk of presenting oneself in an unfavorable light. Since there is a growing number of users of mobile Web browsers, we focused our study on the effects of different devices (PC or cell phone) in Web surveys on the respondents' willingness to report sensitive information. To reduce selection bias, we carried out a two-wave cross-over experiment using a volunteer online access-panel in Russia. Participants were asked to complete the questionnaire in both survey modes: PC and mobile Web survey. We hypothesized that features of mobile Web usage may affect response accuracy and lead to more socially desirable responses compared to the PC Web survey mode. We found significant differences in the reporting of alcohol consumption by mode, consistent with our hypothesis. But other sensitive questions did not show similar effects. We also found that the presence of familiar bystanders had an impact on the responses, while the presence of strangers did not have any significant effect in either survey mode. Contrary to expectations, we did not find evidence of a positive impact of completing the questionnaire at home and trust in data confidentiality on the level of reporting. These results could help survey practitioners to design and improve data quality in Web surveys completed on different devices.
+AU  - Mavletova, Aigul
+AU  - Couper, Mick P.
+DO  - 10.18148/srm/2013.v7i3.5458
+IS  - 3
+KW  - ALCOHOL-CONSUMPTION
+KW  - BEHAVIOR
+KW  - CONFIDENTIALITY CONCERNS
+KW  - DATA-COLLECTION MODE
+KW  - DRUG-USE
+KW  - INTERNET
+KW  - PAPER-AND-PENCIL
+KW  - PRIVACY
+KW  - SELF-ADMINISTERED QUESTIONNAIRES
+KW  - SOCIAL DESIRABILITY BIAS
+KW  - Web surveys
+KW  - data quality
+KW  - interview setting
+KW  - mobile Web surveys
+KW  - perceived privacy
+KW  - presence of bystanders
+KW  - sensitive questions
+PY  - 2013
+SP  - 191
+EP  - 205
+TI  - Sensitive Topics in PC Web and Mobile Web Surveys: Is There a Difference?
+T2  - Survey Research Methods
+VL  - 7
+ER  -
+TY  - JOUR
+AB  - There is some evidence that questionnaire design (scrolling or paging) and invitation mode (SMS or e-mail) have an impact on response rates in web surveys completed on personal computers (PCs). This paper examines whether these findings can be generalized to mobile web surveys. First, we explore the effect of scrolling versus paging design on the breakoff rate, item nonresponse, and completion time in mobile web surveys. Second, we investigate which type of invitation and reminder mode (SMS or e-mail) is more effective in terms of producing higher participation rates and maximizing the percentage of respondents who complete the survey via a mobile device rather than a PC. The paper summarizes the results of an experiment conducted among members of a volunteer online access panel in Russia, who were asked to complete the survey using a mobile device. We find that the scrolling design leads to significantly faster completion times, lower (though not significantly lower) breakoff rates, fewer technical problems, and higher subjective ratings of the questionnaire. We also find that SMS invitations are more effective than e-mail invitations in mobile web surveys.
+AU  - Mavletova, Aigul
+AU  - Couper, Mick P.
+DA  - 2014/12//
+DO  - 10.1093/JSSAM/SMU015
+IS  - 4
+KW  - Invitation mode
+KW  - Mobile web surveys
+KW  - Nonresponse
+KW  - Participation rates
+KW  - Survey design
+PB  - Oxford Academic
+PY  - 2014
+SP  - 498
+EP  - 518
+TI  - Mobile Web Survey Design: Scrolling versus Paging, SMS versus E-mail Invitations
+T2  - Journal of Survey Statistics and Methodology
+VL  - 2
+ER  -
+TY  - JOUR
+AB  - Videos are often used in web surveys to assess attitudes. While including videos may allow researchers to test immediate reactions, there may be issues associated with displaying videos that are overlooked. In this article, we examine the effects of using video stimuli on responses in a probability-based web survey. Specifically, we evaluate the association between demographics, mobile device usage, and the ability to view videos; differences in ad recall based on whether respondents saw a video or still images of the video; whether respondents? complete viewing of videos is related to presentation order; and the data quality of follow-up questions to the videos as a function of presentation order and complete viewing. Overall, we found that respondents using mobile browsers were less likely to be able to view videos in the survey. Those who could view videos were more likely to indicate recall compared to those who viewed images, and videos that were shown later in the survey were viewed in their entirety less frequently than those shown earlier. These results directly pertain to the legitimacy of using videos in web surveys to gather data about attitudes.
+AU  - Mendelson, Jonathan
+AU  - Gibson, Jennifer L.
+AU  - Romano-Bergstrom, Jennifer
+DO  - 10.1177/0894439316662439
+IS  - 5
+KW  - Attitude Measures
+KW  - Digital Video
+KW  - Mobile Devices
+KW  - Surveys
+KW  - Test Construction
+KW  - Video Display Units
+KW  - advertising
+KW  - data quality
+KW  - measurement
+KW  - videos
+KW  - web surveys
+PY  - 2017
+SP  - 654
+EP  - 665
+TI  - Displaying Videos in Web Surveys: Implications for Complete Viewing and Survey Responses
+T2  - Social Science Computer Review
+VL  - 35
+ER  -
+TY  - CONF
+AB  - Growing numbers of people are using their mobile phones to respond to online surveys. As a result, survey designers face the challenge of displaying questions and their response options and navigation elements on small smartphone screens in a way that encourages survey completion. The purpose of the present study was to conduct a series of systematic assessments of how older adults using smartphones interact with different user-interface features in online surveys. This paper shares results of three different experiments. Experiment 1 compares different ways of displaying choose-one response options. Experiment 2 compares different ways of displaying numeric entry boxes, specifically ones used to collect currency information (e.g., prices, costs, salaries). Experiment 3 tests whether forward and backward navigational buttons on a smartphone survey should be labeled with words (previous, next) or simply indicated with arrow icons (). Results indicate that certain features such as picker-boxes that appear at the bottom of the screen (iOS devices), fixed formatting of numeric-entry boxes, and icon navigation buttons were problematic. They either had negative impacts on performance (response times and/or accuracy) or only a small percentage of participants preferred these design features when asked to compare them to the other features.
+AU  - Olmsted-Hawala, Erica
+AU  - Nichols, Elizabeth
+AU  - Falcone, Brian
+AU  - Figueroa, Ivonne J.
+AU  - Antoun, Christopher
+AU  - Wang, Lin
+CY  - Cham
+DA  - 2018/6//
+DO  - 10.1007/978-3-319-92034-4_26
+ED  - Zhou, J.
+ED  - Salvendy, G.
+KW  - Erwachsener
+KW  - Leitfaden
+KW  - Online-Überwachung
+KW  - Rückmeldezeit
+KW  - Smartphone
+KW  - Währung
+KW  - älterer Mensch
+PB  - Springer
+PY  - 2018
+SP  - 335
+EP  - 335
+TI  - Optimal Data Entry Designs in Mobile Web Surveys for Older Adults
+T2  - Human Aspects of IT for the Aged Population. Acceptance, Communication and Participation. ITAP 2018. Lecture Notes in Computer Science, vol 10926.
+VL  - 10926
+ER  -
+TY  - JOUR
+AB  - Self-administered surveys can be conducted on mobile web-capable devices, yet these devices have unique features that can affect response processes. Ninety-two adults were randomly selected and provided with mobile devices to complete weekly web surveys. Experiments were designed to address three main objectives. First, the authors test fundamental findings which have been found robust across other modes, but whose impact may be diminished in mobile web surveys (due largely to the device), by manipulating question order and scale frequencies. Second, the authors test findings from experiments in computer-administered web surveys, altering the presentation of images and the number of questions per page. Third, the authors experiment with the unique display, navigation, and input methods, through the need to scroll, the vertical versus horizontal orientation of scales, and the willingness to provide open-ended responses. Although most findings from other modes are upheld, the small screen and keyboard introduce undesirable differences in responses.
+AU  - Peytchev, Andy
+AU  - Hill, Craig A.
+DO  - 10.1177/0894439309353037
+IS  - 3
+KW  - 0188: methodology and research technology
+KW  - CONTEXT
+KW  - DATA-COLLECTION
+KW  - Data collection
+KW  - Education--Computer Applications
+KW  - Internet
+KW  - Personal digital assistants
+KW  - Polls & surveys
+KW  - Product design
+KW  - QUESTIONS
+KW  - SCREEN SIZE
+KW  - Smartphones
+KW  - Surveys
+KW  - article
+KW  - cell phones
+KW  - computer methods, media, & applications
+KW  - mobile devices
+KW  - mobile devices cell phones smartphones survey design mobile web surveys
+KW  - mobile web surveys
+KW  - smartphones
+KW  - survey design
+PY  - 2010
+SP  - 319
+EP  - 335
+TI  - Experiments in Mobile Web Survey Design: Similarities to Other Modes and Unique Considerations
+T2  - Social Science Computer Review
+VL  - 28
+ER  -
+TY  - JOUR
+AB  - More and more respondents are answering web surveys using mobile devices. Mobile respondents tend to provide shorter responses to open questions than PC respondents. Using voice recording to answer open-ended questions could increase data quality and help engage groups usually underrepresented in web surveys. Revilla, Couper, Bosch, and Asensio showed that in particular the use of voice recording still presents many challenges, even if it could be a promising tool. This article reports results from a follow-up experiment in which the main goals were to (1) test whether different instructions on how to use the voice recording tool reduce technical and understanding problems, and thereby reduce item nonresponse while preserving data quality and the evaluation of the tool; (2) test whether nonresponse due to context can be reduced by using a filter question, and how this affects data quality and the tool evaluation; and (3) understand which factors affect nonresponse to open-ended questions using voice recording, and if these factors also affect data quality and the evaluation of the tool. The experiment was implemented within a smartphone web survey in Spain focused on Android devices. The results suggest that different instructions did not affect nonresponse to the open questions and had little effect on data quality for those who did answer. Introducing a filter to ensure that people were in a setting that permits voice recording seems useful. Despite efforts to reduce problems, a substantial proportion of respondents are still unwilling or unable to answer open questions using voice recording.
+AU  - Revilla, Melanie
+AU  - Couper, Mick P.
+DO  - 10.1177/0894439319888708
+IS  - 6
+KW  - Birthdays
+KW  - COMPUTER
+KW  - DATA QUALITY
+KW  - Data quality
+KW  - Education--Computer Applications
+KW  - Electronic devices
+KW  - Emotions
+KW  - Evaluation
+KW  - Internet
+KW  - MOBILE DEVICES
+KW  - PC
+KW  - PROBABILITY-BASED PANEL
+KW  - Polls & surveys
+KW  - Questions
+KW  - Recording
+KW  - Research responses
+KW  - Smartphones
+KW  - Voice
+KW  - WEB
+KW  - Webs
+KW  - android
+KW  - data quality
+KW  - mobile web survey
+KW  - nonresponse
+KW  - smartphones
+KW  - tool evaluation
+KW  - voice recording
+PY  - 2021
+SP  - 1159
+EP  - 1178
+TI  - Improving the Use of Voice Recording in a Smartphone Survey
+T2  - Social Science Computer Review
+VL  - 39
+ER  -
+TY  - JOUR
+AB  - Much research has been done comparing grids and item-by-item formats. However, the results are mixed, and more research is needed especially when a significant proportion of respondents answer using smartphones. In this study, we implemented an experiment with seven groups (n = 1,476), varying the device used (PC or smartphone), the presentation of the questions (grids, item-by-item vertical, item-by-item horizontal), and, in the case of smartphones only, the visibility of the ?next? button (always visible or only visible at the end of the page, after scrolling down). The survey was conducted by the Netquest online fieldwork company in Spain in 2016. We examined several outcomes for three sets of questions, which are related to respondent behavior (completion time, lost focus, answer changes, and screen orientation) and data quality (item missing data, nonsubstantive responses, instructional manipulation check failure, and nondifferentiation). The most striking difference found is for the placement of the next button in the smartphone item-by-item conditions: When the button is always visible, item missing data are substantially higher.
+AU  - Revilla, Melanie
+AU  - Couper, Mick P.
+DO  - 10.1177/0894439317715626
+IS  - 3
+KW  - Completion time
+KW  - DESIGN
+KW  - Data quality
+KW  - Education--Computer Applications
+KW  - Human Factors Engineering
+KW  - Internet
+KW  - LAYOUT
+KW  - Microcomputers
+KW  - Missing data
+KW  - Mobile Phones
+KW  - PARADATA
+KW  - Product Design
+KW  - Scrolling
+KW  - Smartphones
+KW  - Technology
+KW  - Telephone communications
+KW  - Visibility
+KW  - WEB SURVEYS
+KW  - data quality
+KW  - grids
+KW  - item-by-item
+KW  - respondent behavior
+KW  - scale orientation
+KW  - smartphones
+KW  - web surveys
+PY  - 2018
+SP  - 349
+EP  - 368
+TI  - Comparing Grids With Vertical and Horizontal Item-by-Item Formats for PCs and Smartphones
+T2  - Social Science Computer Review
+VL  - 36
+ER  -
+TY  - JOUR
+AB  - We implemented an experiment within a smartphone web survey to explore the feasibility of using voice input (VI) options. Based on device used, participants were randomly assigned to a treatment or control group. Respondents in the iPhone operating system (iOS) treatment group were asked to use the dictation button, in which the voice was translated automatically into text by the device. Respondents with Android devices were asked to use a VI button which recorded the voice and transmitted the audio file. Both control groups were asked to answer open-ended questions using standard text entry. We found that the use of VI still presents a number of challenges for respondents. Voice recording (Android) led to substantially higher nonresponse, whereas dictation (iOS) led to slightly higher nonresponse, relative to text input. However, completion time was significantly reduced using VI. Among those who provided an answer, when dictation was used, we found fewer valid answers and less information provided, whereas for voice recording, longer and more elaborated answers were obtained. Voice recording (Android) led to significantly lower survey evaluations, but not dictation (iOS).
+AU  - Revilla, Melanie
+AU  - Couper, Mick P.
+AU  - Bosch, Oriol J.
+AU  - Asensio, Marc
+DO  - 10.1177/0894439318810715
+IS  - 2
+KW  - Audio data
+KW  - COMPUTER
+KW  - Completion time
+KW  - Education--Computer Applications
+KW  - Internet
+KW  - MOBILE DEVICES
+KW  - PC
+KW  - PROBABILITY-BASED PANEL
+KW  - Polls & surveys
+KW  - QUESTIONS
+KW  - RESPONSE QUALITY
+KW  - Recording
+KW  - Research responses
+KW  - Smartphones
+KW  - Voice
+KW  - data quality
+KW  - dictation
+KW  - mobile web surveys
+KW  - speech-to-text
+KW  - voice recording
+PY  - 2020
+SP  - 207
+EP  - 224
+TI  - Testing the Use of Voice Input in a Smartphone Web Survey
+T2  - Social Science Computer Review
+VL  - 38
+ER  -
+TY  - JOUR
+AB  - The development of web surveys has been accompanied by the emergence of new scales, taking advantages of the visual and interactive features provided by the Internet like drop-down menus, sliders, drag-and-drop, or order-by-click scales. This article focuses on the order-by-click scales, studying the comparability of the data obtained for this scale when answered through PCs versus smartphones. I used data from an experiment where panelists from the Netquest opt-in panel in Spain were randomly assigned to a PC, smartphone optimized, or smartphone not-optimized version of the same questionnaire in two waves. I found significant differences due to the device and optimization at least for some indicators and questions.
+AU  - Revilla, Melanie
+DO  - 10.1177/1525822X16674701
+IS  - 3
+KW  - 0514:culture and social structure
+KW  - Anthropology
+KW  - COMPUTER
+KW  - Internet
+KW  - MOBILE
+KW  - Microcomputers
+KW  - Mobile Phones
+KW  - PANELS
+KW  - PC
+KW  - Polls & surveys
+KW  - Questionnaires
+KW  - Research responses
+KW  - Smartphones
+KW  - Surveys
+KW  - Websites
+KW  - smartphones
+KW  - social anthropology
+KW  - web surveys
+PY  - 2017
+SP  - 266
+EP  - 280
+TI  - Are There Differences Depending on the Device Used to Complete a Web Survey (PC or Smartphone) for Order-by-click Questions?
+T2  - Field methods
+VL  - 29
+ER  -
+TY  - JOUR
+AB  - Some respondents already complete web surveys via mobile devices. These devices vary at several levels from PCs. In particular, we expect differences when grid questions are used due to the lower visibility on mobile devices and because in questionnaires optimized to be completed through smartphones, grids are split up into an item-by-item format. This paper reports the results of a two-wave experiment conducted in Spain in 2015, comparing three groups: PCs, smartphones not-optimized, or smartphones optimized. We found similar levels of interitem correlations, longer completion times for grid questions for smartphone respondents, and sometimes less non-differentiation for PCs. Thus, using the item-by-item format for smartphones and PCs seems the most appropriate way to improve comparability. [ABSTRACT FROM AUTHOR]
+AU  - Revilla, Melanie
+AU  - Toninelli, Daniele
+AU  - Ochoa, Carlos
+DO  - 10.1016/j.tele.2016.04.002
+IS  - 1
+KW  - Comparative studies
+KW  - Completion time
+KW  - Grid computing
+KW  - Grids
+KW  - Interitem correlation
+KW  - Internet surveys
+KW  - Mobile communication systems
+KW  - Non-differentiation
+KW  - Personal computers
+KW  - Smartphones
+KW  - Web surveys
+PY  - 2017
+SP  - 30
+EP  - 42
+TI  - An experiment comparing grids and item-by-item formats in web surveys completed through PCs and smartphones.
+T2  - Telematics & Informatics
+VL  - 34
+ER  -
+TY  - JOUR
+AB  - We studied the impact of different layouts for rank order questions on respondent effort, data quality, and substantive results among PC and smartphone respondents, in an experiment in an opt-in online panel in Spain, using an order-by-click design. We experimentally varied the device, the number of columns, and, for smartphone respondents, the position of the 'next' button in questions on trust in institutions.We found some evidence of lower data quality for smartphone users but no evidence that presenting ranking items in one column performs differently than two columns. We also find little evidence that these effects differ by the number of response options presented or the number to be ranked. The placement of the 'next' button had little effect on performance on ranking items. Overall, our findings suggest that the format and layout of order-by-click questions has little effect on data quality, regardless of device used.
+AU  - Revilla, Melanie
+AU  - Couper, Mick P.
+DO  - 10.1080/13645579.2018.1471371
+IS  - 6
+KW  - Data quality
+KW  - EXPERIENCE
+KW  - Internet
+KW  - Layout
+KW  - PANELS
+KW  - PARADATA
+KW  - RATINGS
+KW  - Ranking
+KW  - Respondents
+KW  - SENSITIVE TOPICS
+KW  - Smartphones
+KW  - Social Sciences: Comprehensive Works
+KW  - VALUES
+KW  - WEB SURVEYS
+KW  - Web surveys
+KW  - data quality
+KW  - order-by-click questions
+KW  - rank order questions
+KW  - smartphone optimization
+PY  - 2018
+SP  - 695
+EP  - 712
+TI  - Testing different rank order question layouts for PC and smartphone respondents
+T2  - International Journal of Social Research Methodology
+VL  - 21
+ER  -
+TY  - JOUR
+AB  - Most survey questions are closed questions, where respondents have to select an answer from a proposed set of alternatives. However, a lot of surveys also include, at least occasionally, some open questions. Open questions that call for elaborated and developed answers, called "open narrative questions", are used when the researchers want to go deeper into what the respondents think. This paper compares the answers to open narrative questions when the respondent is participating in a PC survey, in a smartphone-not-optimised survey or in a smartphone-optimised survey. The experiment was carried out in Spain using data collected by the Netquest online access panel. Respondents were assigned randomly to each type of device and survey format, in two successive waves. Because respondents have to type in their answer, we expect differences between devices, linked with the size and the kind of keyboards (i.e. physical versus digital, touch-screen or not). Differences are observed between answers that come from PCs and smartphones for the response time per written character, for the number of total characters and for the use of abbreviations, but not for the non-answer and non-substantive responses. No differences are observed between optimised and not optimised versions for smartphones, except for the response time per character written.
+AU  - Revilla, Melanie
+AU  - Ochoa, Carlos
+DO  - 10.1007/s11135-015-0273-2
+IS  - 6
+KW  - 0104:methodology and research technology
+KW  - 33411:Computer and Peripheral Equipment Manufacturing
+KW  - Analysis
+KW  - COMPUTER
+KW  - DESIGN
+KW  - Data collection
+KW  - Experiments
+KW  - Hypotheses
+KW  - Interactive computer systems
+KW  - Internet
+KW  - Israel
+KW  - Keyboards
+KW  - MOBILE WEB SURVEYS
+KW  - Mobile optimised questionnaires
+KW  - Narratives
+KW  - OPEN-ENDED QUESTIONS
+KW  - Open narrative questions
+KW  - Personal computers
+KW  - Polls & surveys
+KW  - Questionnaires
+KW  - RESPONSES
+KW  - Research responses
+KW  - Response time
+KW  - SIZE
+KW  - Smartphones
+KW  - Spain
+KW  - Statistics
+KW  - Studies
+KW  - Telephone communications
+KW  - Web surveys
+KW  - research methods/tools
+PY  - 2016
+SP  - 2495
+EP  - 2513
+TI  - Open narrative questions in PC and smartphones: is the device playing a role?
+T2  - Quality & Quantity
+VL  - 50
+ER  -
+TY  - JOUR
+AB  - Purpose - Despite the quick spread of the use of mobile devices in survey participation, there is still little knowledge about the potentialities and challenges that arise from this increase. The purpose of this paper is to study how respondents' preferences drive their choice of a certain device when participating in surveys. Furthermore, this paper evaluates the tolerance of participants when specifically asked to use mobile devices and carry out other specific tasks, such as taking photographs.
+Design/methodology/approach - Data were collected by surveys in Spain, Portugal and Latin America by Netquest, an online fieldwork company.
+Findings - Netquest panellists still mainly preferred to participate in surveys using personal computers. Nevertheless, the use of tablets and smartphones in surveys showed an increasing trend; more panellists would prefer mobile devices, if the questionnaires were adapted to them. Most respondents were not opposed to the idea of participating in tasks such as taking photographs or sharing GPS information.
+Research limitations/implications - The research concerns an opt-in online panel that covers a specific area. For probability-based panels and other areas the findings may be different.
+Practical implications - The findings show that online access panels need to adapt their surveys to mobile devices to satisfy the increasing demand from respondents. This will also allow new, and potentially very interesting data collection methods.
+Originality/value - This study contributes to survey methodology with updated findings focusing on a currently underexplored area. Furthermore, it provides commercial online panels with useful information to determine their future strategies.
+AU  - Revilla, Melanie
+AU  - Toninelli, Daniele
+AU  - Ochoa, Carlos
+AU  - Loewe, Germán
+DO  - 10.1108/IntR-02-2015-0032
+IS  - 5
+KW  - ADOPTION
+KW  - COMPUTERS
+KW  - Methodology
+KW  - Mobile communications
+KW  - Netquest
+KW  - PC
+KW  - Survey
+KW  - Technological innovation
+KW  - WEB SURVEYS
+KW  - World Wide Web
+PY  - 2016
+SP  - 1209
+EP  - 1227
+TI  - Do online access panels need to adapt surveys for mobile devices?
+T2  - Internet Research
+VL  - 26
+ER  -
+TY  - JOUR
+AB  - In this article, we present a study on the data quality and the response process of mobile online surveys using an experimental design as compared to a standard computer. We used the following indicators to measure data quality and response properties: reaction time to survey invitation, break-off rate, item nonresponse, length of responses to open-ended questions and survey transmission, processing, and completion time. With regard to completion time, we also explored the significance of the place as well as the situation in which the survey was completed, the kind of Internet connection the respondents had as well as the hardware properties of the devices used to answer the online survey. Our results suggest comparable data quality and response properties in most aspects: There were no noticeable differences between computer and mobile users as regards break-off rate, item nonresponse, and length of responses to open-ended questions, nor the place where the survey was completed. However, it took respondents in the mobile group longer to complete the survey as compared to respondents answering the online survey on their computer. In terms of the completion time, there was a significant decrease in the differences between mobile devices and PCs when respondents used technically advanced mobile devices and had access to a fast Internet connection.
+AU  - Schlosser, Stephan
+AU  - Mays, Anja
+DO  - 10.1177/0894439317698437
+IS  - 2
+KW  - Access
+KW  - COMPUTER
+KW  - Completion time
+KW  - Computers
+KW  - Data Sets
+KW  - Data quality
+KW  - Education--Computer Applications
+KW  - Electronic devices
+KW  - Internet
+KW  - Mobile Devices
+KW  - Mobile computing
+KW  - Polls & surveys
+KW  - Properties (attributes)
+KW  - Reaction time
+KW  - Research design
+KW  - Research responses
+KW  - SMARTPHONE
+KW  - Studies
+KW  - Surveys
+KW  - TIMES
+KW  - Technology
+KW  - WEB SURVEY
+KW  - break-off rate
+KW  - data quality
+KW  - item nonresponse
+KW  - length of responses to open-ended questions
+KW  - mobile device
+KW  - mode effect
+KW  - online survey
+KW  - paradata
+KW  - reaction time to survey invitation
+KW  - response time
+PY  - 2018
+SP  - 212
+EP  - 230
+TI  - Mobile and Dirty: Does Using Mobile Devices Affect the Data Quality and the Response Process of Online Surveys?
+T2  - Social Science Computer Review
+VL  - 36
+ER  -
+TY  - JOUR
+AB  - Stated preference (SP) web surveys are increasingly completed on mobile devices such as smartphones and tablets instead of computers. Due to differences in technical attributes and response contexts of the devices, this trend may affect the quality of the survey data and elicited welfare measures. Little is known of such device effects in SP research. In the first such study of its kind, we compare willingness to pay (WTP) and response quality between devices in a large, national contingent valuation survey. Propensity score matching is used to distinguish device effects from observed sample composition effects due to self-selection. We find significantly higher WTP for smartphone respondents in the first out of four sequential WTP questions, and no differences for tablets. Concerning data (response) quality, results are mixed, but not consistently lower for smartphones and tablets compared to computers. Measured by indicators of response randomness, shares of don't know and protest zeros, smartphone responses even show signs of higher quality. Only in terms of the extent of internal scope sensitivity, do smartphones and tablets fare somewhat worse than computers. Overall, our results do not indicate substantial loss of response quality or differences in welfare measures for mobile devices.
+AU  - Skeie, Magnus A.
+AU  - Lindhjem, Henrik
+AU  - Skjeflo, Sofie
+AU  - Navrud, Ståle
+DO  - 10.1016/j.ecolecon.2019.106390
+KW  - Contingent valuation
+KW  - Ecosystem services
+KW  - IMPACT
+KW  - INTERNET
+KW  - MAIL
+KW  - MOBILE DEVICES
+KW  - MODES
+KW  - Mobile device
+KW  - Mobiltelefon
+KW  - Personal Computer
+KW  - Propensity score matching
+KW  - QUALITY
+KW  - SCOPE
+KW  - STATED-PREFERENCE SURVEYS
+KW  - Survey quality
+KW  - Umweltökonomik
+KW  - Zahlungsbereitschaftsanalyse
+KW  - Ökosystem
+PY  - 2019
+TI  - Smartphone and tablet effects in contingent valuation web surveys - No reason to worry?
+T2  - Ecological Economics
+VL  - 165
+ER  -
+TY  - JOUR
+AU  - Steinbrecher, Markus
+AU  - Roßmann, Joss
+AU  - Blumenstiel, Jan E.
+DA  - 2015/6//
+DO  - 10.1093/IJPOR/EDU025
+IS  - 2
+PB  - Oxford Academic
+PY  - 2015
+SP  - 289
+EP  - 302
+TI  - Why Do Respondents Break Off Web Surveys and Does It Matter? Results From Four Follow-up Surveys
+T2  - International Journal of Public Opinion Research
+VL  - 27
+ER  -
+TY  - JOUR
+AB  - "The use of mobile devices such as smartphones and tablets for survey completion is growing rapidly, raising concerns regarding data quality in general, and nonresponse and measurement error in particular. We use the data from six online waves of the GESIS Panel, a probability-based mixed-mode panel representative of the German population to study whether the responses provided using tablets or smartphones differ on indicators of measurement and nonresponse errors from responses provided via personal computers or laptops. We follow an approach chosen by Lugtig and Toepoel (2015), using the following indicators of nonresponse error: item nonresponse, providing an answer to an open question; and the following indicators of measurement error: straightlining, number of characters in open questions, choice of left-aligned options in horizontal scales, and survey duration. Moreover, we extend the scope of past research by exploring whether data quality is a function of device-type or respondent-type characteristics using multilevel models. Overall, we find that responding with mobile devices is associated with a higher likelihood of measurement discrepancies compared to PC/laptop survey completion. For smartphone survey completion, the indicators of measurement and nonresponse error tend to be higher than for tablet completion. We find that most indicators of nonresponse and measurement error used in our analysis cannot be attributed to the respondent characteristics but are rather effects of mobile devices." (author's abstract)
+AU  - Struminskaya, Bella
+AU  - Weyandt, Kai
+AU  - Bosnjak, Michael
+DO  - 10.12758/mda.2015.014
+IS  - 2
+KW  - Umfrageforschung
+KW  - survey research
+PY  - 2015
+SP  - 261
+EP  - 292
+TI  - The effects of questionnaire completion using mobile devices on data quality: evidence from a probability-based general population panel
+T2  - methods, data, analyses
+UR  - https://www.wiso-net.de/document/MDA__45667
+VL  - 9
+ER  -
+TY  - JOUR
+AB  - This article reports from a pilot study that was conducted in a probability-based online panel in the Netherlands. Two parallel surveys were conducted: one in the traditional questionnaire layout of the panel and the other optimized for mobile completion with new software that uses a responsive design (optimizes the layout for the device chosen). The latter questionnaire was optimized for mobile completion, and respondents could choose whether they wanted to complete the survey on their mobile phone or on a regular desktop. Results show that a substantive number of respondents (57%) used their mobile phone for survey completion. No differences were found between mobile and desktop users with regard to break offs, item nonresponse, time to complete the survey, or response effects such as length of answers to an open-ended question and the number of responses in a check-all-that-apply question. A considerable number of respondents gave permission to record their GPS coordinates, which are helpful in defining where the survey was taken. Income, household size, and household composition were found to predict mobile completion. In addition, younger respondents, who typically form a hard-to-reach group, show higher mobile completion rates.
+AU  - Toepoel, Vera
+AU  - Lugtig, Peter
+DO  - 10.1177/0894439313510482
+IS  - 4
+KW  - 0188: methodology and research technology
+KW  - Computer Software
+KW  - DESIGN
+KW  - Education--Computer Applications
+KW  - Global positioning systems--GPS
+KW  - Households
+KW  - Income
+KW  - Internet
+KW  - MODES
+KW  - Netherlands
+KW  - Probability
+KW  - Software
+KW  - article
+KW  - computer methods, media, & applications
+KW  - measurement effects
+KW  - mobile phone survey
+KW  - mobile phone survey panel survey measurement effects nonresponse effects
+KW  - nonresponse effects
+KW  - panel survey
+PY  - 2014
+SP  - 544
+EP  - 560
+TI  - What Happens if You Offer a Mobile Option to Your Web Panel? Evidence From a Probability-Based Panel of Internet Users
+T2  - Social Science Computer Review
+VL  - 32
+ER  -
+TY  - JOUR
+AB  - This article compares the effectiveness of a research messenger layout to a traditional online layout with regards to probing. Responses to different types of probes (explanation, elaboration and category selection probes) were examined in terms of length and quality, measured by number of characters, number of themes, and an indicator for response quality. The research messenger layout, regardless of device being used, had a negative effect on both response length, number of themes and response quality. Further, we found that in both the traditional and research messenger layout, using a mobile device negatively affects the number of characters and themes used in probed responses. We conclude that probing is most effective when a traditional survey is completed on a computer. The research messenger layout was not able to generate responses of similar quality compared to the traditional layout, regardless of device being used.
+AU  - Toepoel, Vera
+AU  - Mathon, Karlijn
+AU  - Tussenbroek, Puck
+AU  - Lugtig, Peter
+DO  - 10.1177/07591063211019953
+IS  - 1
+PY  - 2021
+SP  - 74
+EP  - 95
+TI  - Probing in online mixed-device surveys: Is a research messenger layout more effective than a traditional online layout, especially on mobile devices?
+T2  - Bulletin of Sociological Methodology/Bulletin de Méthodologie Sociologique
+VL  - 151
+ER  -
+TY  - JOUR
+AB  - In an experiment dealing with the use of personal computer, tablet, or mobile, scale points (up to 5, 7, or 11) and response formats (bars or buttons) are varied to examine differences in mean scores and nonresponse. The total number of not applicable answers does not vary significantly. Personal computer has the lowest item nonresponse, followed by mobile and tablet, and a lower mean score than for mobile. Slider bars showed lower mean scores and more nonresponses than buttons, indicating that they are more prone to bias and difficult in use. Sider bars, which work with a drag-and-drop principle, perform worse than visual analogue scales working with a point-and-click principle and buttons. Five-point scales have more nonresponses than eleven-point scales. Respondents evaluate 11-point scales more positively than shorter scales.
+AU  - Toepoel, Vera
+AU  - Funke, Frederik
+DO  - 10.1080/08898480.2018.1439245
+IS  - 2
+KW  - DESIGN
+KW  - Likert scale
+KW  - OPTIMAL NUMBER
+KW  - POINTS
+KW  - RATING-SCALES
+KW  - RELIABILITY
+KW  - WEB SURVEYS
+KW  - mobile surveys
+KW  - questionnaire design
+KW  - response formats
+KW  - slider bars
+KW  - visual analogue scales
+PY  - 2018
+SP  - 112
+EP  - 122
+TI  - Sliders, visual analogue scales, or buttons: Influence of formats and scales in mobile and desktop surveys
+T2  - Mathematical Population Studies
+VL  - 25
+ER  -
+TY  - JOUR
+AU  - Toepoel, Vera
+AU  - Lugtig, Peter
+DO  - 10.12758/mda.2015.009
+IS  - 2
+KW  - Antwortverhalten
+KW  - response behavior
+PY  - 2015
+SP  - 155
+EP  - 162
+TI  - Online surveys are mixed-device surveys: issues associated with the use of different (mobile) devices in web surveys
+T2  - methods, data, analyses
+VL  - 9
+ER  -
+TY  - JOUR
+AB  - With the rise of mobile surveys comes the need for shorter questionnaires. We investigate the modularization of an existing questionnaire in the Longitudinal Internet Study for the Social Sciences ...
+AU  - Toepoel, Vera
+AU  - Lugtig, Peter
+DA  - 2018/7//
+DO  - 10.1177/0894439318784882
+KW  - data chunking
+KW  - data modularization
+KW  - data quality
+KW  - mobile surveys
+KW  - online surveys
+PB  - SAGE PublicationsSage CA: Los Angeles, CA
+PY  - 2018
+TI  - Modularization in an Era of Mobile Web: Investigating the Effects of Cutting a Survey Into Smaller Pieces on Data Quality
+T2  - Social Science Computer Review
+ER  -
+TY  - JOUR
+AB  - More and more respondents use mobile devices to complete web surveys. These devices have different characteristics, if compared to PCs (e.g. smaller screen sizes and higher portability). These characteristics can affect the survey responses, mostly when a questionnaire includes sensitive questions. This topic was already studied by Mavletova and Couper (2013), through a two-wave experiment comparing PCs and mobile devices results for the same respondents in a Russian opt-in panel. We replicated this cross-over design, focusing on an opt-in panel for Spain, involving 1,800 panellists and comparing PCs and smartphones. Our results support most of Mavletova and Couper's (2013) findings (e.g. generally the used device does not significantly affect the reporting of sensitive information), confirming their robustness over the two studied countries. For other results (e.g. trust in data confidentiality), we found differences that can be justified by the diverse context/culture or by the quick changes that are still characterizing the mobile web survey participation.
+AU  - Toninelli, Daniele
+AU  - Revilla, Melanie
+DO  - 10.18148/srm/2016.v1012.6274
+IS  - 2
+KW  - BIAS
+KW  - COMPUTERS
+KW  - MODE
+KW  - NONRESPONSE
+KW  - SCREEN SIZE
+KW  - Web surveys
+KW  - measurement error
+KW  - mobile participation
+KW  - sensitive questions
+KW  - smartphones
+KW  - survey optimization
+PY  - 2016
+SP  - 153
+EP  - 169
+TI  - Smartphones vs PCs: Does the Device Affect the Web Survey Experience and the Measurement Error for Sensitive Topics? A Replication of the Mavletova & Couper's 2013 Experiment
+T2  - Survey Research Methods
+VL  - 10
+ER  -
+TY  - JOUR
+AB  - Does completing a web survey on a smartphone or tablet computer reduce the quality of the data obtained compared to completing the survey on a laptop computer? This is an important question, since a growing proportion of web surveys are done on smartphones and tablets. Several earlier studies have attempted to gauge the effects of the switch from personal computers to mobile devices on data quality. We carried out a field experiment in eight counties around the United States that compared responses obtained by smartphones, tablets, and laptop computers. We examined a range of data quality measures including completion times, rates of missing data, straightlining, and the reliability and validity of scale responses. A unique feature of our study design is that it minimized selection effects; we provided the randomly determined device on which respondents completed the survey after they agreed to take part. As a result, respondents may have been using a device (e.g., a smartphone) for the first time. However, like many of the prior studies examining mobile devices, we find few effects of the type of device on data quality.
+AU  - Tourangeau, Roger
+AU  - Sun, Hanyu
+AU  - Yan, Ting
+AU  - Maitland, Aaron
+AU  - Rivero, Gonzalo
+AU  - Williams, Douglas
+DO  - 10.1177/0894439317719438
+IS  - 5
+KW  - COMPUTER
+KW  - DESIGN
+KW  - Data quality
+KW  - Education--Computer Applications
+KW  - Electronic devices
+KW  - Internet
+KW  - MOBILE DEVICES
+KW  - Missing data
+KW  - Mobile computing
+KW  - PC
+KW  - Personal computers
+KW  - Polls & surveys
+KW  - Rangefinding
+KW  - Research responses
+KW  - SENSITIVE TOPICS
+KW  - Smartphones
+KW  - Tablet computers
+KW  - Telephone communications
+KW  - data quality
+KW  - measurement error
+KW  - mobile devices
+KW  - smartphones
+PY  - 2018
+SP  - 542
+EP  - 556
+TI  - Web Surveys by Smartphones and Tablets: Effects on Data Quality
+T2  - Social Science Computer Review
+VL  - 36
+ER  -
+TY  - JOUR
+AB  - With respondents increasingly completing web surveys on tablet computers and smartphones, several studies have examined the potential effects of the switch from PCs to mobile devices. The studies have looked at a range of outcomes, including completion rates, breakoffs, and item nonresponse. We carried out a field experiment that compared responses obtained by smartphones, tablets, and laptop computers, focusing on the potential effects of the different devices on measurement errors. We examined whether the differences across devices in screen size (and the related need to scroll to see the entire question or the full set of response options) might moderate the effects of response order, affect the strategy respondents used to decide which of two options was preferable, change the effect of question context, or influence the use of definitions. Our experiments were based on the principle of visual prominence-the idea that respondents are more likely to notice and consider information that is easy to see. The experiments were deliberately designed to maximize the impact of screen size on the results, since the screen size would affect the visual prominence of key information. However, like many of the prior studies examining mobile devices, although response order, context, and evaluation strategy affected the answers respondents gave, few device effects emerged.
+AU  - Tourangeau, Roger
+AU  - Maitland, Aaron
+AU  - Rivero, Gonzalo
+AU  - Sun, Hanyu
+AU  - Williams, Douglas
+AU  - Yan, Ting
+DO  - 10.1093/poq/nfx035
+IS  - 4
+KW  - COMPUTER
+KW  - DESIGN
+KW  - MOBILE
+KW  - OPTIONS
+KW  - PREFERENCE REVERSALS
+KW  - SENSITIVE TOPICS
+PY  - 2017
+SP  - 896
+EP  - 929
+TI  - Web Surveys by Smartphone and Tablets: Effects on Survey Responses
+T2  - Public Opinion Quarterly
+VL  - 81
+ER  -
+TY  - JOUR
+AB  - Header images are typically included in web surveys to make surveys more appealing for respondents. However, headers might also induce a systematic bias in response behavior. In order to examine both the potential effects (more specifically, effects on motivation and context effects) of header images with respondents using different devices, an experiment embedded in a web survey on students' time use and stress was conducted using a probability sample of 1,326 students at the University of Bonn. Respondents were presented either with a picture of an auditorium with students sitting in a class, a picture of leisure activities on campus, or no picture, respectively. To control for position effects, pictures were placed either in the upper right or upper left of the questionnaire. The results indicate that header images attract attention in the beginning of a survey, but do not significantly increase motivation over the course of the survey. When faced with a header picture, respondents in the picture conditions evaluate their time in class differently compared to respondents in the control group. While the device providing the visibility makes no difference, effects are only significant when the picture is placed on the left side of the screen. In sum, the interaction of header placement and the content-related proximity of header content and question may alter response behavior.
+AU  - Trübner, Miriam
+DO  - 10.18148/srm/2020.v14i1.7367
+IS  - 1
+KW  - Context effects
+KW  - EXPOSURE
+KW  - SURVEY PARTICIPATION
+KW  - device effects
+KW  - header images
+KW  - web surveys
+PY  - 2020
+SP  - 43
+EP  - 53
+TI  - Effects of Header Images on Different Devices in Web Surveys
+T2  - Survey Research Methods
+VL  - 14
+ER  -
+TY  - CONF
+AB  - With the growing use of smartphones, many surveys can now be administered using those phones. Such questionnaires are called mobile survey questionnaires. The designer of a mobile survey questionnaire is challenged with presenting text and controls on a small display, while allowing respondents to correctly understand and answer questions with ease. To address this challenge, we are developing an evidencebased framework of user interface design for mobile survey questionnaires. The framework includes two parts: standards for the basic elements of surveyrelevant mobile device operation and guidelines for the building blocks of mobile survey questionnaires. In this presentation, we will describe five behavioral experiments designed to collect evidence for developing the standards. These experiments cover visual perception and motor actions relevant to survey completion. Some preliminary results from ongoing data collection are presented.
+AU  - Wang, Lin
+AU  - Antoun, Christopher
+AU  - Sanders, Russell
+AU  - Nichols, Elizabeth
+AU  - Hawala, Erica L.
+AU  - Falcone, Brian
+AU  - Figueroa, Ivonne J.
+AU  - Katz, Jonathan
+CY  - New York
+DA  - 2017/5//
+DO  - 10.1145/3027063.3053181
+KW  - Framework
+KW  - Mobile survey
+KW  - Standards
+KW  - Usability
+KW  - Usability ACM Classification Keywords H52 User Interfaces: Human Factors
+PB  - Association for Computing Machinery
+PY  - 2017
+SN  - 9781450346566
+SP  - 2998
+EP  - 3004
+TI  - Experimentation for developing evidence-based ui standards of mobile survey questionnaires
+T2  - Proceedings of the 2017 CHI Conference Extended Abstracts on Human Factors in Computing Systems
+VL  - Part F127655
+ER  -
+TY  - JOUR
+AB  - There is a limited body of experimental research examining the comparability of completing self-report surveys using different computerized devices. Additionally, available literature has not used complete or optimal procedures for determining device equivalence. The current study examined the comparability of surveys completed using paper-and-pencil and three popular devices: smartphone, tablet, and desktop computer. Participants consisted of 211 college students randomly assigned to conditions who completed measures of personality, social desirability, and computer self-efficacy. Results showed evidence of qualitative equivalence (internal consistency and subscale intercorrelations) across conditions. For quantitative and auxiliary equivalence, both equivalence testing and Bayesian analyses were conducted. Equivalence testing indicated quantitative (mean score) equivalence, as well as comparability for one aspect of auxiliary equivalence (missing data). Other aspects of auxiliary equivalence (completion time and comfort completing questionnaires) suggested potentially meaningful differences. Bayesian analyses typically replicated these results, with some notable exceptions regarding auxiliary equivalence.
+AU  - Weigold, Arne
+AU  - Weigold, Ingrid K.
+AU  - Dykema, Stephanie A.
+AU  - Drakeford, Naomi M.
+AU  - Martin-Wagar, Caitlin A.
+DO  - 10.1080/10447318.2020.1848159
+IS  - 8
+KW  - INTERNET
+KW  - MOBILE
+KW  - QUALITY
+KW  - SELF-EFFICACY
+KW  - SHORT FORMS
+KW  - SOCIAL DESIRABILITY
+KW  - TECHNOLOGY
+KW  - VALIDATION
+KW  - WEB
+PY  - 2021
+SP  - 803
+EP  - 814
+TI  - Computerized Device Equivalence: A Comparison of Surveys Completed Using A Smartphone, Tablet, Desktop Computer, and Paper-and-Pencil
+T2  - International Journal of Human-Computer Interaction
+VL  - 37
+ER  -
+TY  - JOUR
+AB  - The dramatic rise of smartphones has profound implications for survey research. Namely, can smartphones become a viable and comparable device for self-administered surveys? The current study is based on approximately 1,500 online U.S. panelists who were smartphone users and who were randomly assigned to the mobile app or online computer mode of a survey. Within the survey, we embedded several experiments that had been previously tested in other modes (mail, PC web, mobile web). First, we test whether responses in the mobile app survey are sensitive to particular experimental manipulations as they are in other modes. Second, we test whether responses collected in the mobile app survey are similar to those collected in the online computer survey. Our mobile survey experiments show that mobile survey responses are sensitive to the presentation of frequency scales and the size of open-ended text boxes, as are responses in other survey modes. Examining responses across modes, we find very limited evidence for mode effects between mobile app and PC web survey administrations. This may open the possibility for multimode (mobile and online computer) surveys, assuming that certain survey design recommendations for mobile surveys are used consistently in both modes.
+AU  - Wells, Tom
+AU  - Bailey, Justin T.
+AU  - Link, Michael W.
+DO  - 10.1177/0894439313505829
+IS  - 2
+KW  - 0188: methodology and research technology
+KW  - Computers
+KW  - Education--Computer Applications
+KW  - Human Computer Interaction
+KW  - Human Machine Systems Design
+KW  - Internet
+KW  - MAIL
+KW  - MOBILE WEB SURVEY
+KW  - Mobile Devices
+KW  - Mobile Phones
+KW  - OPEN-ENDED QUESTIONS
+KW  - ORDER
+KW  - Polls & surveys
+KW  - RESPONSES
+KW  - Smartphones
+KW  - Software
+KW  - Surveys
+KW  - Test Forms
+KW  - Text Structure
+KW  - United States--US
+KW  - Users
+KW  - Websites
+KW  - article
+KW  - computer methods, media, & applications
+KW  - computers
+KW  - experiments
+KW  - mobile surveys
+KW  - mobile surveys online surveys smartphones experiments
+KW  - online surveys
+KW  - smartphones
+KW  - test administration format
+KW  - text boxes
+KW  - websites
+PY  - 2014
+SP  - 238
+EP  - 255
+TI  - Comparison of Smartphone and Online Computer Survey Administration
+T2  - Social Science Computer Review
+VL  - 32
+ER  -
+TY  - JOUR
+AB  - Survey completions on mobile devices have been increasing rapidly. This important shift is something market researchers should definitely consider when designing and conducting self-administered online surveys. This article briefly summarises existing research and empirical results from mobile surveys. Based on the specific findings discussed, market researchers should be better aware of what to expect when fielding surveys completed by mobile respondents, whether this is intended or not. Bringing the findings together and discussing more broadly, for online surveys, market researchers should consider consciously and deliberately accommodating both mobile and PC respondents. Thus far, the research on mobile surveys indicates that consumers want the choice and ability to take surveys when they want, where they want and on the device of their choosing. It is to be hoped that market researchers are listening and become willing to accommodate survey respondents in terms of device and, by extension, time and location.
+AU  - Wells, Tom
+DO  - 10.2501/IJMR-2015-045
+IS  - 4
+KW  - PC
+KW  - QUALITY
+KW  - WEB
+PY  - 2015
+SP  - 521
+EP  - 532
+TI  - What market researchers should know about mobile surveys
+T2  - International Journal of Market Research
+VL  - 57
+ER  -
+TY  - JOUR
+AB  - We asked members of the Understanding Society Innovation Panel about their willingness to participate in various data collection tasks on their mobile devices. We find that stated willingness varies considerably depending on the type of activity involved: respondents are less willing to participate in tasks that involve downloading and installing an app, or where data are collected passively. Stated willingness also varies between smartphones and tablets, and between types of respondents: respondents who report higher concerns about the security of data collected with mobile technologies and those who use their devices less intensively are less willing to participate in mobile data collection tasks.
+AU  - Wenz, Alexander,
+AU  - Jackle, Annette
+AU  - Couper, Mick P.
+DO  - 10.18148/srm/2019.v13i1.7298
+IS  - 1
+KW  - ACCEPTANCE
+KW  - Bluetooth
+KW  - GPS
+KW  - accelerometer
+KW  - app
+KW  - smartphone
+KW  - tablet
+PY  - 2019
+SP  - 1
+EP  - 22
+TI  - Willingness to use mobile technologies for data collection in a probability household panel
+T2  - Survey Research Methods
+VL  - 13
+ER  -
+TY  - JOUR
+AB  - Transport studies constantly rely on surveys among travelers. Computer assisted web interview is the most popular survey mode. However, respondents complete online surveys nowadays using smartphones, tablets or traditional devices. We address three questions related to this development: how important are mobile respondents; how to deal with mobile respondents; and what is the effect of mobile response in a survey? In order to answer these questions, we used a series of information dense meta-analyses and state-of-the-art literature. Our results reveal that one out of every three respondents used a mobile device in 2016. The profile of mobile respondents adheres to the profiles of hard-to-reach candidates. Four design strategies for mixed-device surveys are identified and discussed. By taking an active approach to mixed-device surveys, multiple issues associated with mobile response can be overcome, i.e. differences in completion times and break-offs can be minimized. Mobile respondents appreciate redesigned surveys. Our results are in favor of facilitating mobile respondents with an adaptive or responsive web design in surveys.
+AU  - Zijlstra, Toon
+AU  - Wijgergangs, Krisje
+AU  - Hoogendoorn-Lanser, Sascha
+DO  - 10.1016/j.trpro.2018.10.033
+KW  - Datenqualität
+KW  - Mischmaschine
+KW  - Mischvorrichtung
+KW  - Online-Überwachung
+KW  - Smartphone
+KW  - mobiles Gerät
+PY  - 2018
+SP  - 184
+EP  - 194
+TI  - Traditional and mobile devices in computer assisted web-interviews
+T2  - Transportation Research Procedia
+VL  - 32
+ER  -
+TY  - JOUR
+AB  - Using mobile devices to complete web-based surveys is an inescapable trend. Given the growth of this medium, some researchers are concerned about whether mobile devices are a viable channel for administering self-report online surveys. Taking two online surveys respectively using the US and China samples, this study compared the responses quality between participants responding via mobile devices and via PCs. Results from both the US and China samples revealed that although mobile respondents took longer to complete surveys than PC respondents, response quality did not differ significantly between these groups. Several behaviour patterns among mobile respondents were also identified in both samples. These findings provide practical implications to optimize web-based surveys for mobile users in tourism and hospitality research.
+AU  - Zou, Suiwen
+AU  - Tan, Karen P.
+AU  - Liu, Hongbo
+AU  - Li, Xiang
+AU  - Chen, Ye
+DO  - 10.1080/13683500.2020.1797645
+IS  - 10
+KW  - COMPUTER
+KW  - ISSUES
+KW  - Mobile device
+KW  - Online survey
+KW  - RATES
+KW  - Response quality
+KW  - TECHNOLOGY
+KW  - Theory ofsatisficing
+KW  - WEB SURVEY DESIGN
+PY  - 2021
+SP  - 1345
+EP  - 1357
+TI  - Mobile vs. PC: the device mode effects on tourism online survey response quality
+T2  - Current Issues in Tourism
+VL  - 24
+ER  -
