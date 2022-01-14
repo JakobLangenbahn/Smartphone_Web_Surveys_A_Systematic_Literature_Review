@@ -50,9 +50,6 @@ coverage.xml
 # Django stuff:
 *.log
 
-# Sphinx documentation
-docs/_build/
-
 # PyBuilder
 target/
 
@@ -65,12 +62,6 @@ target/
 
 # Pycharm
 .idea
-
-# VS Code
-.vscode/
-
-# Spyder
-.spyproject/
 
 # Jupyter NB Checkpoints
 .ipynb_checkpoints/
